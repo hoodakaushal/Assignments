@@ -1,0 +1,2011 @@
+To #F_PREV2_examined #F_NEXT_determine #F_POS_TO
+determine #F_PREV_To #F_NEXT_the #F_POS_VB
+the #F_PREV_determine #F_PREV2_To #F_NEXT_prevalence #F_POS_DT
+prevalence #F_PREV_the #F_PREV2_determine #F_NEXT_and #F_POS_NN
+and #F_PREV_prevalence #F_PREV2_the #F_NEXT_characterize #F_POS_CC
+characterize #F_PREV_and #F_PREV2_prevalence #F_NEXT_demographic #F_POS_VB
+demographic #F_PREV_characterize #F_PREV2_and #F_NEXT_, #F_POS_JJ
+, #F_PREV_demographic #F_PREV2_characterize #F_NEXT_clinical #F_POS_,
+clinical #F_PREV_, #F_PREV2_demographic #F_NEXT_, #F_POS_JJ
+, #F_PREV_clinical #F_PREV2_, #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_clinical #F_NEXT_genetic #F_POS_CC
+genetic #F_PREV_and #F_PREV2_, #F_NEXT_of #F_POS_JJ
+of #F_PREV_genetic #F_PREV2_and #F_NEXT_familial #F_POS_IN
+familial #F_PREV_of #F_PREV2_genetic #F_NEXT_Mediterranean #F_POS_JJ
+Mediterranean #F_PREV_familial #F_PREV2_of #F_NEXT_fever #F_POS_NNP
+fever #F_PREV_Mediterranean #F_PREV2_familial #F_NEXT_( #F_POS_NN
+( #F_PREV_fever #F_PREV2_Mediterranean #F_NEXT_FMF #F_POS_:
+FMF #F_PREV_( #F_PREV2_fever #F_NEXT_) #F_POS_NNP
+) #F_PREV_FMF #F_PREV2_( #F_NEXT_of #F_POS_:
+of #F_PREV_) #F_PREV2_FMF #F_NEXT_late #F_POS_IN
+late #F_PREV_of #F_PREV2_) #F_NEXT_onset #F_POS_JJ
+onset #F_PREV_late #F_PREV2_of #F_NEXT_, #F_POS_NN
+, #F_PREV_onset #F_PREV2_late #F_NEXT_all #F_POS_,
+all #F_PREV_, #F_PREV2_onset #F_NEXT_patients #F_POS_DT
+patients #F_PREV_all #F_PREV2_, #F_NEXT_experiencing #F_POS_NNS
+experiencing #F_PREV_patients #F_PREV2_all #F_NEXT_their #F_POS_VBG
+their #F_PREV_experiencing #F_PREV2_patients #F_NEXT_first #F_POS_PRP$
+first #F_PREV_their #F_PREV2_experiencing #F_NEXT_FMF #F_POS_JJ
+FMF #F_PREV_first #F_PREV2_their #F_NEXT_attack #F_POS_NNP
+attack #F_PREV_FMF #F_PREV2_first #F_NEXT_at #F_POS_NN
+at #F_PREV_attack #F_PREV2_FMF #F_NEXT_age #F_POS_IN
+age #F_PREV_at #F_PREV2_attack #F_NEXT_40 #F_POS_NN
+40 #F_PREV_age #F_PREV2_at #F_NEXT_years #F_POS_CD
+years #F_PREV_40 #F_PREV2_age #F_NEXT_or #F_POS_NNS
+or #F_PREV_years #F_PREV2_40 #F_NEXT_more #F_POS_CC
+more #F_PREV_or #F_PREV2_years #F_NEXT_were #F_POS_JJR
+were #F_PREV_more #F_PREV2_or #F_NEXT_identified #F_POS_VBD
+identified #F_PREV_were #F_PREV2_more #F_NEXT_using #F_POS_VBN
+using #F_PREV_identified #F_PREV2_were #F_NEXT_the #F_POS_VBG
+the #F_PREV_using #F_PREV2_identified #F_NEXT_computerized #F_POS_DT
+computerized #F_PREV_the #F_PREV2_using #F_NEXT_registry #F_POS_JJ
+registry #F_PREV_computerized #F_PREV2_the #F_NEXT_of #F_POS_NN
+of #F_PREV_registry #F_PREV2_computerized #F_NEXT_our #F_POS_IN
+our #F_PREV_of #F_PREV2_registry #F_NEXT_FMF #F_POS_PRP$
+FMF #F_PREV_our #F_PREV2_of #F_NEXT_clinic, #F_POS_NNP
+clinic, #F_PREV_FMF #F_PREV2_our #F_NEXT_and #F_POS_NNP
+and #F_PREV_clinic, #F_PREV2_FMF #F_NEXT_then #F_POS_CC
+then #F_PREV_and #F_PREV2_clinic, #F_NEXT_thoroughly #F_POS_RB
+thoroughly #F_PREV_then #F_PREV2_and #F_NEXT_interviewed #F_POS_RB
+interviewed #F_PREV_thoroughly #F_PREV2_then #F_NEXT_and #F_POS_VBN
+and #F_PREV_interviewed #F_PREV2_thoroughly #F_NEXT_examined #F_POS_CC
+examined #F_PREV_and #F_PREV2_interviewed #F_NEXT_. #F_POS_VBN
+. #F_PREV_examined #F_PREV2_and #F_POS_.
+
+Friedreich #F_PREV2_frataxin #F_NEXT_ataxia #F_POS_NNP
+ataxia #F_PREV_Friedreich #F_NEXT_is #F_POS_NN
+is #F_PREV_ataxia #F_PREV2_Friedreich #F_NEXT_an #F_POS_VBZ
+an #F_PREV_is #F_PREV2_ataxia #F_NEXT_autosomal #F_POS_DT
+autosomal #F_PREV_an #F_PREV2_is #F_NEXT_recessive #F_POS_JJ
+recessive #F_PREV_autosomal #F_PREV2_an #F_NEXT_disorder #F_POS_JJ
+disorder #F_PREV_recessive #F_PREV2_autosomal #F_NEXT_caused #F_POS_NN
+caused #F_PREV_disorder #F_PREV2_recessive #F_NEXT_by #F_POS_VBD
+by #F_PREV_caused #F_PREV2_disorder #F_NEXT_mutations #F_POS_IN
+mutations #F_PREV_by #F_PREV2_caused #F_NEXT_in #F_POS_NNS
+in #F_PREV_mutations #F_PREV2_by #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_mutations #F_NEXT_FRDA #F_POS_DT
+FRDA #F_PREV_the #F_PREV2_in #F_NEXT_gene #F_POS_NNP
+gene #F_PREV_FRDA #F_PREV2_the #F_NEXT_that #F_POS_NN
+that #F_PREV_gene #F_PREV2_FRDA #F_NEXT_encodes #F_POS_WDT
+encodes #F_PREV_that #F_PREV2_gene #F_NEXT_a #F_POS_VBZ
+a #F_PREV_encodes #F_PREV2_that #F_NEXT_210 #F_POS_DT
+210 #F_PREV_a #F_PREV2_encodes #F_NEXT_- #F_POS_CD
+- #F_PREV_210 #F_PREV2_a #F_NEXT_amino #F_POS_:
+amino #F_PREV_- #F_PREV2_210 #F_NEXT_acid #F_POS_NN
+acid #F_PREV_amino #F_PREV2_- #F_NEXT_protein #F_POS_NN
+protein #F_PREV_acid #F_PREV2_amino #F_NEXT_called #F_POS_NN
+called #F_PREV_protein #F_PREV2_acid #F_NEXT_frataxin #F_POS_VBN
+frataxin #F_PREV_called #F_PREV2_protein #F_NEXT_. #F_POS_NN
+. #F_PREV_frataxin #F_PREV2_called #F_POS_.
+
+A #F_PREV2_guidelines #F_NEXT_health #F_POS_DT
+health #F_PREV_A #F_NEXT_care #F_POS_NN
+care #F_PREV_health #F_PREV2_A #F_NEXT_management #F_POS_NN
+management #F_PREV_care #F_PREV2_health #F_NEXT_system #F_POS_NN
+system #F_PREV_management #F_PREV2_care #F_NEXT_for #F_POS_NN
+for #F_PREV_system #F_PREV2_management #F_NEXT_use #F_POS_IN
+use #F_PREV_for #F_PREV2_system #F_NEXT_by #F_POS_NN
+by #F_PREV_use #F_PREV2_for #F_NEXT_hospitals #F_POS_IN
+hospitals #F_PREV_by #F_PREV2_use #F_NEXT_, #F_POS_NNS
+, #F_PREV_hospitals #F_PREV2_by #F_NEXT_physicians #F_POS_,
+physicians #F_PREV_, #F_PREV2_hospitals #F_NEXT_, #F_POS_NNS
+, #F_PREV_physicians #F_PREV2_, #F_NEXT_insurance #F_POS_,
+insurance #F_PREV_, #F_PREV2_physicians #F_NEXT_companies #F_POS_NN
+companies #F_PREV_insurance #F_PREV2_, #F_NEXT_, #F_POS_NNS
+, #F_PREV_companies #F_PREV2_insurance #F_NEXT_health #F_POS_,
+health #F_PREV_, #F_PREV2_companies #F_NEXT_maintenance #F_POS_NN
+maintenance #F_PREV_health #F_PREV2_, #F_NEXT_organizations #F_POS_NN
+organizations #F_PREV_maintenance #F_PREV2_health #F_NEXT_, #F_POS_NNS
+, #F_PREV_organizations #F_PREV2_maintenance #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_organizations #F_NEXT_others #F_POS_CC
+others #F_PREV_and #F_PREV2_, #F_NEXT_in #F_POS_NNS
+in #F_PREV_others #F_PREV2_and #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_others #F_NEXT_health #F_POS_DT
+health #F_PREV_the #F_PREV2_in #F_NEXT_care #F_POS_NN
+care #F_PREV_health #F_PREV2_the #F_NEXT_field #F_POS_NN
+field #F_PREV_care #F_PREV2_health #F_NEXT_includes #F_POS_NN
+includes #F_PREV_field #F_PREV2_care #F_NEXT_a #F_POS_VBZ
+a #F_PREV_includes #F_PREV2_field #F_NEXT_processing #F_POS_DT
+processing #F_PREV_a #F_PREV2_includes #F_NEXT_unit #F_POS_NN
+unit #F_PREV_processing #F_PREV2_a #F_NEXT_and #F_POS_NN
+and #F_PREV_unit #F_PREV2_processing #F_NEXT_health #F_POS_CC
+health #F_PREV_and #F_PREV2_unit #F_NEXT_condition #F_POS_NN
+condition #F_PREV_health #F_PREV2_and #F_NEXT_guidelines #F_POS_NN
+guidelines #F_PREV_condition #F_PREV2_health #F_NEXT_. #F_POS_NNS
+. #F_PREV_guidelines #F_PREV2_condition #F_POS_.
+
+Motor #F_PREV2_gene #F_NEXT_incoordination #F_POS_NNP
+incoordination #F_PREV_Motor #F_NEXT_, #F_POS_NN
+, #F_PREV_incoordination #F_PREV2_Motor #F_NEXT_immune #F_POS_,
+immune #F_PREV_, #F_PREV2_incoordination #F_NEXT_deficiencies #F_POS_NN
+deficiencies #F_PREV_immune #F_PREV2_, #F_NEXT_, #F_POS_NNS
+, #F_PREV_deficiencies #F_PREV2_immune #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_deficiencies #F_NEXT_an #F_POS_CC
+an #F_PREV_and #F_PREV2_, #F_NEXT_increased #F_POS_DT
+increased #F_PREV_an #F_PREV2_and #F_NEXT_risk #F_POS_VBN
+risk #F_PREV_increased #F_PREV2_an #F_NEXT_of #F_POS_NN
+of #F_PREV_risk #F_PREV2_increased #F_NEXT_cancer #F_POS_IN
+cancer #F_PREV_of #F_PREV2_risk #F_NEXT_are #F_POS_NN
+are #F_PREV_cancer #F_PREV2_of #F_NEXT_the #F_POS_VBP
+the #F_PREV_are #F_PREV2_cancer #F_NEXT_characteristic #F_POS_DT
+characteristic #F_PREV_the #F_PREV2_are #F_NEXT_features #F_POS_JJ
+features #F_PREV_characteristic #F_PREV2_the #F_NEXT_of #F_POS_NNS
+of #F_PREV_features #F_PREV2_characteristic #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_features #F_NEXT_hereditary #F_POS_DT
+hereditary #F_PREV_the #F_PREV2_of #F_NEXT_disease #F_POS_JJ
+disease #F_PREV_hereditary #F_PREV2_the #F_NEXT_ataxia #F_POS_NN
+ataxia #F_PREV_disease #F_PREV2_hereditary #F_NEXT_- #F_POS_NN
+- #F_PREV_ataxia #F_PREV2_disease #F_NEXT_telangiectasia #F_POS_:
+telangiectasia #F_PREV_- #F_PREV2_ataxia #F_NEXT_( #F_POS_NN
+( #F_PREV_telangiectasia #F_PREV2_- #F_NEXT_A #F_POS_:
+A #F_PREV_( #F_PREV2_telangiectasia #F_NEXT_- #F_POS_DT
+- #F_PREV_A #F_PREV2_( #F_NEXT_T #F_POS_:
+T #F_PREV_- #F_PREV2_A #F_NEXT_) #F_POS_NNP
+) #F_PREV_T #F_PREV2_- #F_NEXT_, #F_POS_:
+, #F_PREV_) #F_PREV2_T #F_NEXT_which #F_POS_,
+which #F_PREV_, #F_PREV2_) #F_NEXT_is #F_POS_WDT
+is #F_PREV_which #F_PREV2_, #F_NEXT_caused #F_POS_VBZ
+caused #F_PREV_is #F_PREV2_which #F_NEXT_by #F_POS_VBN
+by #F_PREV_caused #F_PREV2_is #F_NEXT_mutations #F_POS_IN
+mutations #F_PREV_by #F_PREV2_caused #F_NEXT_in #F_POS_NNS
+in #F_PREV_mutations #F_PREV2_by #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_mutations #F_NEXT_ATM #F_POS_DT
+ATM #F_PREV_the #F_PREV2_in #F_NEXT_gene #F_POS_NNP
+gene #F_PREV_ATM #F_PREV2_the #F_NEXT_. #F_POS_NN
+. #F_PREV_gene #F_PREV2_ATM #F_POS_.
+
+Consequently #F_PREV2_afibrinogenemia #F_NEXT_, #F_POS_RB
+, #F_PREV_Consequently #F_NEXT_86 #F_POS_,
+86 #F_PREV_, #F_PREV2_Consequently #F_NEXT_% #F_POS_CD
+% #F_PREV_86 #F_PREV2_, #F_NEXT_of #F_POS_NN
+of #F_PREV_% #F_PREV2_86 #F_NEXT_afibrinogenemia #F_POS_IN
+afibrinogenemia #F_PREV_of #F_PREV2_% #F_NEXT_alleles #F_POS_NN
+alleles #F_PREV_afibrinogenemia #F_PREV2_of #F_NEXT_analyzed #F_POS_NNS
+analyzed #F_PREV_alleles #F_PREV2_afibrinogenemia #F_NEXT_to #F_POS_VBD
+to #F_PREV_analyzed #F_PREV2_alleles #F_NEXT_date #F_POS_TO
+date #F_PREV_to #F_PREV2_analyzed #F_NEXT_have #F_POS_NN
+have #F_PREV_date #F_PREV2_to #F_NEXT_truncating #F_POS_VBP
+truncating #F_PREV_have #F_PREV2_date #F_NEXT_mutations #F_POS_VBG
+mutations #F_PREV_truncating #F_PREV2_have #F_NEXT_of #F_POS_NNS
+of #F_PREV_mutations #F_PREV2_truncating #F_NEXT_FGA #F_POS_IN
+FGA #F_PREV_of #F_PREV2_mutations #F_NEXT_, #F_POS_NNP
+, #F_PREV_FGA #F_PREV2_of #F_NEXT_though #F_POS_,
+though #F_PREV_, #F_PREV2_FGA #F_NEXT_mutations #F_POS_IN
+mutations #F_PREV_though #F_PREV2_, #F_NEXT_in #F_POS_NNS
+in #F_PREV_mutations #F_PREV2_though #F_NEXT_all #F_POS_IN
+all #F_PREV_in #F_PREV2_mutations #F_NEXT_3 #F_POS_DT
+3 #F_PREV_all #F_PREV2_in #F_NEXT_fibrinogen #F_POS_CD
+fibrinogen #F_PREV_3 #F_PREV2_all #F_NEXT_genes #F_POS_NN
+genes #F_PREV_fibrinogen #F_PREV2_3 #F_NEXT_, #F_POS_NNS
+, #F_PREV_genes #F_PREV2_fibrinogen #F_NEXT_FGG #F_POS_,
+FGG #F_PREV_, #F_PREV2_genes #F_NEXT_, #F_POS_NNP
+, #F_PREV_FGG #F_PREV2_, #F_NEXT_FGA #F_POS_,
+FGA #F_PREV_, #F_PREV2_FGG #F_NEXT_, #F_POS_NNP
+, #F_PREV_FGA #F_PREV2_, #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_FGA #F_NEXT_FGB #F_POS_CC
+FGB #F_PREV_and #F_PREV2_, #F_NEXT_, #F_POS_NNP
+, #F_PREV_FGB #F_PREV2_and #F_NEXT_might #F_POS_,
+might #F_PREV_, #F_PREV2_FGB #F_NEXT_be #F_POS_MD
+be #F_PREV_might #F_PREV2_, #F_NEXT_predicted #F_POS_VB
+predicted #F_PREV_be #F_PREV2_might #F_NEXT_to #F_POS_VBN
+to #F_PREV_predicted #F_PREV2_be #F_NEXT_cause #F_POS_TO
+cause #F_PREV_to #F_PREV2_predicted #F_NEXT_congenital #F_POS_VB
+congenital #F_PREV_cause #F_PREV2_to #F_NEXT_afibrinogenemia #F_POS_JJ
+afibrinogenemia #F_PREV_congenital #F_PREV2_cause #F_NEXT_. #F_POS_NN
+. #F_PREV_afibrinogenemia #F_PREV2_congenital #F_POS_.
+
+Using #F_PREV2_genes #F_NEXT_DNA #F_POS_VBG
+DNA #F_PREV_Using #F_NEXT_of #F_POS_NNP
+of #F_PREV_DNA #F_PREV2_Using #F_NEXT_a #F_POS_IN
+a #F_PREV_of #F_PREV2_DNA #F_NEXT_patient #F_POS_DT
+patient #F_PREV_a #F_PREV2_of #F_NEXT_with #F_POS_NN
+with #F_PREV_patient #F_PREV2_a #F_NEXT_piebaldism #F_POS_IN
+piebaldism #F_PREV_with #F_PREV2_patient #F_NEXT_, #F_POS_NN
+, #F_PREV_piebaldism #F_PREV2_with #F_NEXT_mental #F_POS_,
+mental #F_PREV_, #F_PREV2_piebaldism #F_NEXT_retardation #F_POS_JJ
+retardation #F_PREV_mental #F_PREV2_, #F_NEXT_, #F_POS_NN
+, #F_PREV_retardation #F_PREV2_mental #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_retardation #F_NEXT_multiple #F_POS_CC
+multiple #F_PREV_and #F_PREV2_, #F_NEXT_congenital #F_POS_VB
+congenital #F_PREV_multiple #F_PREV2_and #F_NEXT_anomalies #F_POS_JJ
+anomalies #F_PREV_congenital #F_PREV2_multiple #F_NEXT_associated #F_POS_NNS
+associated #F_PREV_anomalies #F_PREV2_congenital #F_NEXT_with #F_POS_VBN
+with #F_PREV_associated #F_PREV2_anomalies #F_NEXT_a #F_POS_IN
+a #F_PREV_with #F_PREV2_associated #F_NEXT_46 #F_POS_DT
+46 #F_PREV_a #F_PREV2_with #F_NEXT_, #F_POS_CD
+, #F_PREV_46 #F_PREV2_a #F_NEXT_XY #F_POS_,
+XY #F_PREV_, #F_PREV2_46 #F_NEXT_, #F_POS_NNP
+, #F_PREV_XY #F_PREV2_, #F_NEXT_del(4) #F_POS_,
+del(4) #F_PREV_, #F_PREV2_XY #F_NEXT_(q12q21.1) #F_POS_NNP
+(q12q21.1) #F_PREV_del(4) #F_PREV2_, #F_NEXT_karyotype #F_POS_NNP
+karyotype #F_PREV_(q12q21.1) #F_PREV2_del(4) #F_NEXT_, #F_POS_NN
+, #F_PREV_karyotype #F_PREV2_(q12q21.1) #F_NEXT_we #F_POS_,
+we #F_PREV_, #F_PREV2_karyotype #F_NEXT_carried #F_POS_PRP
+carried #F_PREV_we #F_PREV2_, #F_NEXT_out #F_POS_VBD
+out #F_PREV_carried #F_PREV2_we #F_NEXT_quantitative #F_POS_RP
+quantitative #F_PREV_out #F_PREV2_carried #F_NEXT_Southern #F_POS_JJ
+Southern #F_PREV_quantitative #F_PREV2_out #F_NEXT_blot #F_POS_NNP
+blot #F_PREV_Southern #F_PREV2_quantitative #F_NEXT_hybridization #F_POS_NN
+hybridization #F_PREV_blot #F_PREV2_Southern #F_NEXT_analyses #F_POS_NN
+analyses #F_PREV_hybridization #F_PREV2_blot #F_NEXT_of #F_POS_NNS
+of #F_PREV_analyses #F_PREV2_hybridization #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_analyses #F_NEXT_KIT #F_POS_DT
+KIT #F_PREV_the #F_PREV2_of #F_NEXT_gene #F_POS_NNP
+gene #F_PREV_KIT #F_PREV2_the #F_NEXT_and #F_POS_NN
+and #F_PREV_gene #F_PREV2_KIT #F_NEXT_the #F_POS_CC
+the #F_PREV_and #F_PREV2_gene #F_NEXT_adjacent #F_POS_DT
+adjacent #F_PREV_the #F_PREV2_and #F_NEXT_PDGFRA #F_POS_NN
+PDGFRA #F_PREV_adjacent #F_PREV2_the #F_NEXT_( #F_POS_NNP
+( #F_PREV_PDGFRA #F_PREV2_adjacent #F_NEXT_platelet #F_POS_NNP
+platelet #F_PREV_( #F_PREV2_PDGFRA #F_NEXT_- #F_POS_NN
+- #F_PREV_platelet #F_PREV2_( #F_NEXT_derived #F_POS_:
+derived #F_PREV_- #F_PREV2_platelet #F_NEXT_growth #F_POS_VBD
+growth #F_PREV_derived #F_PREV2_- #F_NEXT_factor #F_POS_NN
+factor #F_PREV_growth #F_PREV2_derived #F_NEXT_receptor #F_POS_NN
+receptor #F_PREV_factor #F_PREV2_growth #F_NEXT_alpha #F_POS_NN
+alpha #F_PREV_receptor #F_PREV2_factor #F_NEXT_subunit #F_POS_NN
+subunit #F_PREV_alpha #F_PREV2_receptor #F_NEXT_) #F_POS_NN
+) #F_PREV_subunit #F_PREV2_alpha #F_NEXT_genes #F_POS_:
+genes #F_PREV_) #F_PREV2_subunit #F_NEXT_. #F_POS_NNS
+. #F_PREV_genes #F_PREV2_) #F_POS_.
+
+Any #F_PREV2_) #F_NEXT_medical #F_POS_DT
+medical #F_PREV_Any #F_NEXT_treatment #F_POS_JJ
+treatment #F_PREV_medical #F_PREV2_Any #F_NEXT_has #F_POS_NN
+has #F_PREV_treatment #F_PREV2_medical #F_NEXT_2 #F_POS_VBZ
+2 #F_PREV_has #F_PREV2_treatment #F_NEXT_components #F_POS_CD
+components #F_PREV_2 #F_PREV2_has #F_NEXT_, #F_POS_NNS
+, #F_PREV_components #F_PREV2_2 #F_NEXT_the #F_POS_,
+the #F_PREV_, #F_PREV2_components #F_NEXT_first #F_POS_DT
+first #F_PREV_the #F_PREV2_, #F_NEXT_being #F_POS_JJ
+being #F_PREV_first #F_PREV2_the #F_NEXT_the #F_POS_VBG
+the #F_PREV_being #F_PREV2_first #F_NEXT_specific #F_POS_DT
+specific #F_PREV_the #F_PREV2_being #F_NEXT_effects #F_POS_JJ
+effects #F_PREV_specific #F_PREV2_the #F_NEXT_of #F_POS_NNS
+of #F_PREV_effects #F_PREV2_specific #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_effects #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_the #F_PREV2_of #F_NEXT_itself #F_POS_NN
+itself #F_PREV_treatment #F_PREV2_the #F_NEXT_, #F_POS_PRP
+, #F_PREV_itself #F_PREV2_treatment #F_NEXT_the #F_POS_,
+the #F_PREV_, #F_PREV2_itself #F_NEXT_second #F_POS_DT
+second #F_PREV_the #F_PREV2_, #F_NEXT_, #F_POS_JJ
+, #F_PREV_second #F_PREV2_the #F_NEXT_the #F_POS_,
+the #F_PREV_, #F_PREV2_second #F_NEXT_knowledge #F_POS_DT
+knowledge #F_PREV_the #F_PREV2_, #F_NEXT_that #F_POS_NN
+that #F_PREV_knowledge #F_PREV2_the #F_NEXT_the #F_POS_IN
+the #F_PREV_that #F_PREV2_knowledge #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_the #F_PREV2_that #F_NEXT_is #F_POS_NN
+is #F_PREV_treatment #F_PREV2_the #F_NEXT_being #F_POS_VBZ
+being #F_PREV_is #F_PREV2_treatment #F_NEXT_performed #F_POS_VBG
+performed #F_PREV_being #F_PREV2_is #F_NEXT_( #F_POS_VBN
+( #F_PREV_performed #F_PREV2_being #F_NEXT_the #F_POS_-NONE-
+the #F_PREV_( #F_PREV2_performed #F_NEXT_placebo #F_POS_DT
+placebo #F_PREV_the #F_PREV2_( #F_NEXT_effect #F_POS_NN
+effect #F_PREV_placebo #F_PREV2_the #F_NEXT_) #F_POS_NN
+) #F_PREV_effect #F_PREV2_placebo #F_NEXT_. #F_POS_:
+. #F_PREV_) #F_PREV2_effect #F_POS_.
+
+We #F_PREV2_syndrome #F_NEXT_report #F_POS_PRP
+report #F_PREV_We #F_NEXT_here #F_POS_VBP
+here #F_PREV_report #F_PREV2_We #F_NEXT_a #F_POS_RB
+a #F_PREV_here #F_PREV2_report #F_NEXT_newly #F_POS_DT
+newly #F_PREV_a #F_PREV2_here #F_NEXT_identified #F_POS_RB
+identified #F_PREV_newly #F_PREV2_a #F_NEXT_HPRT #F_POS_VBN
+HPRT #F_PREV_identified #F_PREV2_newly #F_NEXT_mutation #F_POS_NNP
+mutation #F_PREV_HPRT #F_PREV2_identified #F_NEXT_in #F_POS_NN
+in #F_PREV_mutation #F_PREV2_HPRT #F_NEXT_a #F_POS_IN
+a #F_PREV_in #F_PREV2_mutation #F_NEXT_Japanese #F_POS_DT
+Japanese #F_PREV_a #F_PREV2_in #F_NEXT_patient #F_POS_JJ
+patient #F_PREV_Japanese #F_PREV2_a #F_NEXT_with #F_POS_NN
+with #F_PREV_patient #F_PREV2_Japanese #F_NEXT_Lesch #F_POS_IN
+Lesch #F_PREV_with #F_PREV2_patient #F_NEXT_- #F_POS_NNP
+- #F_PREV_Lesch #F_PREV2_with #F_NEXT_Nyhan #F_POS_:
+Nyhan #F_PREV_- #F_PREV2_Lesch #F_NEXT_syndrome #F_POS_NNP
+syndrome #F_PREV_Nyhan #F_PREV2_- #F_NEXT_. #F_POS_NN
+. #F_PREV_syndrome #F_PREV2_Nyhan #F_POS_.
+
+This #F_PREV2_deficiency #F_NEXT_could #F_POS_DT
+could #F_PREV_This #F_NEXT_be #F_POS_MD
+be #F_PREV_could #F_PREV2_This #F_NEXT_because #F_POS_VB
+because #F_PREV_be #F_PREV2_could #F_NEXT_the #F_POS_IN
+the #F_PREV_because #F_PREV2_be #F_NEXT_68 #F_POS_DT
+68 #F_PREV_the #F_PREV2_because #F_NEXT_Val #F_POS_CD
+Val #F_PREV_68 #F_PREV2_the #F_NEXT_- #F_POS_NNP
+- #F_PREV_Val #F_PREV2_68 #F_NEXT_- #F_POS_:
+- #F_PREV_- #F_PREV2_Val #F_NEXT_Met #F_POS_:
+Met #F_PREV_- #F_PREV2_- #F_NEXT_mutation #F_POS_NNP
+mutation #F_PREV_Met #F_PREV2_- #F_NEXT_happened #F_POS_NN
+happened #F_PREV_mutation #F_PREV2_Met #F_NEXT_to #F_POS_VBD
+to #F_PREV_happened #F_PREV2_mutation #F_NEXT_arise #F_POS_TO
+arise #F_PREV_to #F_PREV2_happened #F_NEXT_in #F_POS_VB
+in #F_PREV_arise #F_PREV2_to #F_NEXT_an #F_POS_IN
+an #F_PREV_in #F_PREV2_arise #F_NEXT_A #F_POS_DT
+A #F_PREV_an #F_PREV2_in #F_NEXT_gene #F_POS_DT
+gene #F_PREV_A #F_PREV2_an #F_NEXT_in #F_POS_NN
+in #F_PREV_gene #F_PREV2_A #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_gene #F_NEXT_first #F_POS_DT
+first #F_PREV_the #F_PREV2_in #F_NEXT_instance #F_POS_JJ
+instance #F_PREV_first #F_PREV2_the #F_NEXT_, #F_POS_NN
+, #F_PREV_instance #F_PREV2_first #F_NEXT_or #F_POS_,
+or #F_PREV_, #F_PREV2_instance #F_NEXT_because #F_POS_CC
+because #F_PREV_or #F_PREV2_, #F_NEXT_the #F_POS_IN
+the #F_PREV_because #F_PREV2_or #F_NEXT_68 #F_POS_DT
+68 #F_PREV_the #F_PREV2_because #F_NEXT_Val #F_POS_CD
+Val #F_PREV_68 #F_PREV2_the #F_NEXT_- #F_POS_NNP
+- #F_PREV_Val #F_PREV2_68 #F_NEXT_- #F_POS_:
+- #F_PREV_- #F_PREV2_Val #F_NEXT_Met #F_POS_:
+Met #F_PREV_- #F_PREV2_- #F_NEXT_mutation #F_POS_NNP
+mutation #F_PREV_Met #F_PREV2_- #F_NEXT_alone #F_POS_NN
+alone #F_PREV_mutation #F_PREV2_Met #F_NEXT_is #F_POS_RB
+is #F_PREV_alone #F_PREV2_mutation #F_NEXT_not #F_POS_VBZ
+not #F_PREV_is #F_PREV2_alone #F_NEXT_sufficient #F_POS_RB
+sufficient #F_PREV_not #F_PREV2_is #F_NEXT_to #F_POS_JJ
+to #F_PREV_sufficient #F_PREV2_not #F_NEXT_cause #F_POS_TO
+cause #F_PREV_to #F_PREV2_sufficient #F_NEXT_G6PD #F_POS_VB
+G6PD #F_PREV_cause #F_PREV2_to #F_NEXT_deficiency #F_POS_NNP
+deficiency #F_PREV_G6PD #F_PREV2_cause #F_NEXT_. #F_POS_NN
+. #F_PREV_deficiency #F_PREV2_G6PD #F_POS_.
+
+A #F_PREV2_syndrome #F_NEXT_family #F_POS_DT
+family #F_PREV_A #F_NEXT_with #F_POS_NN
+with #F_PREV_family #F_PREV2_A #F_NEXT_inherited #F_POS_IN
+inherited #F_PREV_with #F_PREV2_family #F_NEXT_deficiency #F_POS_JJ
+deficiency #F_PREV_inherited #F_PREV2_with #F_NEXT_of #F_POS_NN
+of #F_PREV_deficiency #F_PREV2_inherited #F_NEXT_complement #F_POS_IN
+complement #F_PREV_of #F_PREV2_deficiency #F_NEXT_factor #F_POS_NN
+factor #F_PREV_complement #F_PREV2_of #F_NEXT_2 #F_POS_NN
+2 #F_PREV_factor #F_PREV2_complement #F_NEXT_( #F_POS_CD
+( #F_PREV_2 #F_PREV2_factor #F_NEXT_C2 #F_POS_CD
+C2 #F_PREV_( #F_PREV2_2 #F_NEXT_) #F_POS_NNP
+) #F_PREV_C2 #F_PREV2_( #F_NEXT_is #F_POS_NNP
+is #F_PREV_) #F_PREV2_C2 #F_NEXT_described #F_POS_VBZ
+described #F_PREV_is #F_PREV2_) #F_NEXT_in #F_POS_VBN
+in #F_PREV_described #F_PREV2_is #F_NEXT_which #F_POS_IN
+which #F_PREV_in #F_PREV2_described #F_NEXT_two #F_POS_WDT
+two #F_PREV_which #F_PREV2_in #F_NEXT_family #F_POS_CD
+family #F_PREV_two #F_PREV2_which #F_NEXT_members #F_POS_NN
+members #F_PREV_family #F_PREV2_two #F_NEXT_with #F_POS_NNS
+with #F_PREV_members #F_PREV2_family #F_NEXT_homozygous #F_POS_IN
+homozygous #F_PREV_with #F_PREV2_members #F_NEXT_C2 #F_POS_JJ
+C2 #F_PREV_homozygous #F_PREV2_with #F_NEXT_deficiency #F_POS_NNP
+deficiency #F_PREV_C2 #F_PREV2_homozygous #F_NEXT_developed #F_POS_NN
+developed #F_PREV_deficiency #F_PREV2_C2 #F_NEXT_cutaneous #F_POS_VBD
+cutaneous #F_PREV_developed #F_PREV2_deficiency #F_NEXT_vasculitis #F_POS_JJ
+vasculitis #F_PREV_cutaneous #F_PREV2_developed #F_NEXT_and #F_POS_NNS
+and #F_PREV_vasculitis #F_PREV2_cutaneous #F_NEXT_sicca #F_POS_CC
+sicca #F_PREV_and #F_PREV2_vasculitis #F_NEXT_syndrome #F_POS_NN
+syndrome #F_PREV_sicca #F_PREV2_and #F_NEXT_. #F_POS_NN
+. #F_PREV_syndrome #F_PREV2_sicca #F_POS_.
+
+Since #F_PREV2_granulocytopenia #F_NEXT_early #F_POS_IN
+early #F_PREV_Since #F_NEXT_diagnosis #F_POS_JJ
+diagnosis #F_PREV_early #F_PREV2_Since #F_NEXT_of #F_POS_NN
+of #F_PREV_diagnosis #F_PREV2_early #F_NEXT_even #F_POS_IN
+even #F_PREV_of #F_PREV2_diagnosis #F_NEXT_a #F_POS_RB
+a #F_PREV_even #F_PREV2_of #F_NEXT_disseminated #F_POS_DT
+disseminated #F_PREV_a #F_PREV2_even #F_NEXT_fungal #F_POS_VBN
+fungal #F_PREV_disseminated #F_PREV2_a #F_NEXT_infection #F_POS_JJ
+infection #F_PREV_fungal #F_PREV2_disseminated #F_NEXT_is #F_POS_NN
+is #F_PREV_infection #F_PREV2_fungal #F_NEXT_difficult #F_POS_VBZ
+difficult #F_PREV_is #F_PREV2_infection #F_NEXT_and #F_POS_JJ
+and #F_PREV_difficult #F_PREV2_is #F_NEXT_treatment #F_POS_CC
+treatment #F_PREV_and #F_PREV2_difficult #F_NEXT_often #F_POS_NN
+often #F_PREV_treatment #F_PREV2_and #F_NEXT_ineffective #F_POS_RB
+ineffective #F_PREV_often #F_PREV2_treatment #F_NEXT_in #F_POS_JJ
+in #F_PREV_ineffective #F_PREV2_often #F_NEXT_a #F_POS_IN
+a #F_PREV_in #F_PREV2_ineffective #F_NEXT_patient #F_POS_DT
+patient #F_PREV_a #F_PREV2_in #F_NEXT_with #F_POS_NN
+with #F_PREV_patient #F_PREV2_a #F_NEXT_persistent #F_POS_IN
+persistent #F_PREV_with #F_PREV2_patient #F_NEXT_granulocytopenia #F_POS_JJ
+granulocytopenia #F_PREV_persistent #F_PREV2_with #F_NEXT_, #F_POS_NNS
+, #F_PREV_granulocytopenia #F_PREV2_persistent #F_NEXT_we #F_POS_,
+we #F_PREV_, #F_PREV2_granulocytopenia #F_NEXT_have #F_POS_PRP
+have #F_PREV_we #F_PREV2_, #F_NEXT_prospectively #F_POS_VBP
+prospectively #F_PREV_have #F_PREV2_we #F_NEXT_evaluated #F_POS_RB
+evaluated #F_PREV_prospectively #F_PREV2_have #F_NEXT_continued #F_POS_VBN
+continued #F_PREV_evaluated #F_PREV2_prospectively #F_NEXT_antibiotic #F_POS_VBN
+antibiotic #F_PREV_continued #F_PREV2_evaluated #F_NEXT_therapy #F_POS_JJ
+therapy #F_PREV_antibiotic #F_PREV2_continued #F_NEXT_and #F_POS_NN
+and #F_PREV_therapy #F_PREV2_antibiotic #F_NEXT_early #F_POS_CC
+early #F_PREV_and #F_PREV2_therapy #F_NEXT_empiric #F_POS_RB
+empiric #F_PREV_early #F_PREV2_and #F_NEXT_antifungal #F_POS_JJ
+antifungal #F_PREV_empiric #F_PREV2_early #F_NEXT_therapy #F_POS_JJ
+therapy #F_PREV_antifungal #F_PREV2_empiric #F_NEXT_in #F_POS_NN
+in #F_PREV_therapy #F_PREV2_antifungal #F_NEXT_patients #F_POS_IN
+patients #F_PREV_in #F_PREV2_therapy #F_NEXT_with #F_POS_NNS
+with #F_PREV_patients #F_PREV2_in #F_NEXT_prolonged #F_POS_IN
+prolonged #F_PREV_with #F_PREV2_patients #F_NEXT_fever #F_POS_JJ
+fever #F_PREV_prolonged #F_PREV2_with #F_NEXT_and #F_POS_NN
+and #F_PREV_fever #F_PREV2_prolonged #F_NEXT_granulocytopenia #F_POS_CC
+granulocytopenia #F_PREV_and #F_PREV2_fever #F_NEXT_. #F_POS_NN
+. #F_PREV_granulocytopenia #F_PREV2_and #F_POS_.
+
+Choroideremia #F_PREV2_retina #F_NEXT_( #F_POS_NNP
+( #F_PREV_Choroideremia #F_NEXT_CHM #F_POS_:
+CHM #F_PREV_( #F_PREV2_Choroideremia #F_NEXT_) #F_POS_NNP
+) #F_PREV_CHM #F_PREV2_( #F_NEXT_is #F_POS_:
+is #F_PREV_) #F_PREV2_CHM #F_NEXT_an #F_POS_VBZ
+an #F_PREV_is #F_PREV2_) #F_NEXT_X #F_POS_DT
+X #F_PREV_an #F_PREV2_is #F_NEXT_- #F_POS_NNP
+- #F_PREV_X #F_PREV2_an #F_NEXT_linked #F_POS_:
+linked #F_PREV_- #F_PREV2_X #F_NEXT_progressive #F_POS_VBD
+progressive #F_PREV_linked #F_PREV2_- #F_NEXT_degeneration #F_POS_JJ
+degeneration #F_PREV_progressive #F_PREV2_linked #F_NEXT_of #F_POS_NN
+of #F_PREV_degeneration #F_PREV2_progressive #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_degeneration #F_NEXT_choroid #F_POS_DT
+choroid #F_PREV_the #F_PREV2_of #F_NEXT_and #F_POS_JJ
+and #F_PREV_choroid #F_PREV2_the #F_NEXT_retina #F_POS_CC
+retina #F_PREV_and #F_PREV2_choroid #F_NEXT_. #F_POS_NN
+. #F_PREV_retina #F_PREV2_and #F_POS_.
+
+12% #F_PREV2_gene #F_NEXT_of #F_POS_CD
+of #F_PREV_12% #F_NEXT_unrelated #F_POS_IN
+unrelated #F_PREV_of #F_PREV2_12% #F_NEXT_male #F_POS_JJ
+male #F_PREV_unrelated #F_PREV2_of #F_NEXT_patients #F_POS_JJ
+patients #F_PREV_male #F_PREV2_unrelated #F_NEXT_carry #F_POS_NNS
+carry #F_PREV_patients #F_PREV2_male #F_NEXT_deletions #F_POS_VBP
+deletions #F_PREV_carry #F_PREV2_patients #F_NEXT_of #F_POS_NNS
+of #F_PREV_deletions #F_PREV2_carry #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_deletions #F_NEXT_partially #F_POS_DT
+partially #F_PREV_the #F_PREV2_of #F_NEXT_cloned #F_POS_RB
+cloned #F_PREV_partially #F_PREV2_the #F_NEXT_CHM #F_POS_VBN
+CHM #F_PREV_cloned #F_PREV2_partially #F_NEXT_gene #F_POS_NNP
+gene #F_PREV_CHM #F_PREV2_cloned #F_NEXT_. #F_POS_NN
+. #F_PREV_gene #F_PREV2_CHM #F_POS_.
+
+The #F_PREV2_events #F_NEXT_initiation #F_POS_DT
+initiation #F_PREV_The #F_NEXT_and #F_POS_NN
+and #F_PREV_initiation #F_PREV2_The #F_NEXT_progression #F_POS_CC
+progression #F_PREV_and #F_PREV2_initiation #F_NEXT_of #F_POS_NN
+of #F_PREV_progression #F_PREV2_and #F_NEXT_cancer #F_POS_IN
+cancer #F_PREV_of #F_PREV2_progression #F_NEXT_is #F_POS_NN
+is #F_PREV_cancer #F_PREV2_of #F_NEXT_controlled #F_POS_VBZ
+controlled #F_PREV_is #F_PREV2_cancer #F_NEXT_by #F_POS_VBN
+by #F_PREV_controlled #F_PREV2_is #F_NEXT_both #F_POS_IN
+both #F_PREV_by #F_PREV2_controlled #F_NEXT_genetic #F_POS_DT
+genetic #F_PREV_both #F_PREV2_by #F_NEXT_and #F_POS_JJ
+and #F_PREV_genetic #F_PREV2_both #F_NEXT_epigenetic #F_POS_CC
+epigenetic #F_PREV_and #F_PREV2_genetic #F_NEXT_events #F_POS_JJ
+events #F_PREV_epigenetic #F_PREV2_and #F_NEXT_. #F_POS_NNS
+. #F_PREV_events #F_PREV2_epigenetic #F_POS_.
+
+Unlike #F_PREV2_state #F_NEXT_genetic #F_POS_IN
+genetic #F_PREV_Unlike #F_NEXT_alterations #F_POS_JJ
+alterations #F_PREV_genetic #F_PREV2_Unlike #F_NEXT_, #F_POS_NNS
+, #F_PREV_alterations #F_PREV2_genetic #F_NEXT_which #F_POS_,
+which #F_PREV_, #F_PREV2_alterations #F_NEXT_are #F_POS_WDT
+are #F_PREV_which #F_PREV2_, #F_NEXT_almost #F_POS_VBP
+almost #F_PREV_are #F_PREV2_which #F_NEXT_impossible #F_POS_RB
+impossible #F_PREV_almost #F_PREV2_are #F_NEXT_to #F_POS_JJ
+to #F_PREV_impossible #F_PREV2_almost #F_NEXT_reverse #F_POS_TO
+reverse #F_PREV_to #F_PREV2_impossible #F_NEXT_, #F_POS_VB
+, #F_PREV_reverse #F_PREV2_to #F_NEXT_epigenetic #F_POS_,
+epigenetic #F_PREV_, #F_PREV2_reverse #F_NEXT_aberrations #F_POS_JJ
+aberrations #F_PREV_epigenetic #F_PREV2_, #F_NEXT_are #F_POS_NNS
+are #F_PREV_aberrations #F_PREV2_epigenetic #F_NEXT_potentially #F_POS_VBP
+potentially #F_PREV_are #F_PREV2_aberrations #F_NEXT_reversible #F_POS_RB
+reversible #F_PREV_potentially #F_PREV2_are #F_NEXT_, #F_POS_JJ
+, #F_PREV_reversible #F_PREV2_potentially #F_NEXT_allowing #F_POS_,
+allowing #F_PREV_, #F_PREV2_reversible #F_NEXT_the #F_POS_VBG
+the #F_PREV_allowing #F_PREV2_, #F_NEXT_malignant #F_POS_DT
+malignant #F_PREV_the #F_PREV2_allowing #F_NEXT_cell #F_POS_NN
+cell #F_PREV_malignant #F_PREV2_the #F_NEXT_population #F_POS_NN
+population #F_PREV_cell #F_PREV2_malignant #F_NEXT_to #F_POS_NN
+to #F_PREV_population #F_PREV2_cell #F_NEXT_revert #F_POS_TO
+revert #F_PREV_to #F_PREV2_population #F_NEXT_to #F_POS_VB
+to #F_PREV_revert #F_PREV2_to #F_NEXT_a #F_POS_TO
+a #F_PREV_to #F_PREV2_revert #F_NEXT_more #F_POS_DT
+more #F_PREV_a #F_PREV2_to #F_NEXT_normal #F_POS_RBR
+normal #F_PREV_more #F_PREV2_a #F_NEXT_state #F_POS_JJ
+state #F_PREV_normal #F_PREV2_more #F_NEXT_. #F_POS_NN
+. #F_PREV_state #F_PREV2_normal #F_POS_.
+
+With #F_PREV2_cancer #F_NEXT_the #F_POS_IN
+the #F_PREV_With #F_NEXT_advent #F_POS_DT
+advent #F_PREV_the #F_PREV2_With #F_NEXT_of #F_POS_NN
+of #F_PREV_advent #F_PREV2_the #F_NEXT_numerous #F_POS_IN
+numerous #F_PREV_of #F_PREV2_advent #F_NEXT_drugs #F_POS_JJ
+drugs #F_PREV_numerous #F_PREV2_of #F_NEXT_that #F_POS_NNS
+that #F_PREV_drugs #F_PREV2_numerous #F_NEXT_target #F_POS_WDT
+target #F_PREV_that #F_PREV2_drugs #F_NEXT_specific #F_POS_NN
+specific #F_PREV_target #F_PREV2_that #F_NEXT_enzymes #F_POS_VBP
+enzymes #F_PREV_specific #F_PREV2_target #F_NEXT_involved #F_POS_NNS
+involved #F_PREV_enzymes #F_PREV2_specific #F_NEXT_in #F_POS_VBN
+in #F_PREV_involved #F_PREV2_enzymes #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_involved #F_NEXT_epigenetic #F_POS_DT
+epigenetic #F_PREV_the #F_PREV2_in #F_NEXT_regulation #F_POS_JJ
+regulation #F_PREV_epigenetic #F_PREV2_the #F_NEXT_of #F_POS_NN
+of #F_PREV_regulation #F_PREV2_epigenetic #F_NEXT_gene #F_POS_IN
+gene #F_PREV_of #F_PREV2_regulation #F_NEXT_expression #F_POS_NN
+expression #F_PREV_gene #F_PREV2_of #F_NEXT_, #F_POS_NN
+, #F_PREV_expression #F_PREV2_gene #F_NEXT_the #F_POS_,
+the #F_PREV_, #F_PREV2_expression #F_NEXT_utilization #F_POS_DT
+utilization #F_PREV_the #F_PREV2_, #F_NEXT_of #F_POS_NN
+of #F_PREV_utilization #F_PREV2_the #F_NEXT_epigenetic #F_POS_IN
+epigenetic #F_PREV_of #F_PREV2_utilization #F_NEXT_targets #F_POS_JJ
+targets #F_PREV_epigenetic #F_PREV2_of #F_NEXT_is #F_POS_NNS
+is #F_PREV_targets #F_PREV2_epigenetic #F_NEXT_emerging #F_POS_VBZ
+emerging #F_PREV_is #F_PREV2_targets #F_NEXT_as #F_POS_VBG
+as #F_PREV_emerging #F_PREV2_is #F_NEXT_an #F_POS_IN
+an #F_PREV_as #F_PREV2_emerging #F_NEXT_effective #F_POS_DT
+effective #F_PREV_an #F_PREV2_as #F_NEXT_and #F_POS_JJ
+and #F_PREV_effective #F_PREV2_an #F_NEXT_valuable #F_POS_CC
+valuable #F_PREV_and #F_PREV2_effective #F_NEXT_approach #F_POS_JJ
+approach #F_PREV_valuable #F_PREV2_and #F_NEXT_to #F_POS_NN
+to #F_PREV_approach #F_PREV2_valuable #F_NEXT_chemotherapy #F_POS_TO
+chemotherapy #F_PREV_to #F_PREV2_approach #F_NEXT_as #F_POS_VB
+as #F_PREV_chemotherapy #F_PREV2_to #F_NEXT_well #F_POS_IN
+well #F_PREV_as #F_PREV2_chemotherapy #F_NEXT_as #F_POS_RB
+as #F_PREV_well #F_PREV2_as #F_NEXT_chemoprevention #F_POS_IN
+chemoprevention #F_PREV_as #F_PREV2_well #F_NEXT_of #F_POS_NN
+of #F_PREV_chemoprevention #F_PREV2_as #F_NEXT_cancer #F_POS_IN
+cancer #F_PREV_of #F_PREV2_chemoprevention #F_NEXT_. #F_POS_NN
+. #F_PREV_cancer #F_PREV2_of #F_POS_.
+
+Alzheimer #F_PREV2_symptoms #F_NEXT_disease #F_POS_NNP
+disease #F_PREV_Alzheimer #F_NEXT_( #F_POS_NN
+( #F_PREV_disease #F_PREV2_Alzheimer #F_NEXT_AD #F_POS_:
+AD #F_PREV_( #F_PREV2_disease #F_NEXT_) #F_POS_NNP
+) #F_PREV_AD #F_PREV2_( #F_NEXT_is #F_POS_:
+is #F_PREV_) #F_PREV2_AD #F_NEXT_a #F_POS_VBZ
+a #F_PREV_is #F_PREV2_) #F_NEXT_neurodegenerative #F_POS_DT
+neurodegenerative #F_PREV_a #F_PREV2_is #F_NEXT_disorder #F_POS_JJ
+disorder #F_PREV_neurodegenerative #F_PREV2_a #F_NEXT_characterized #F_POS_NN
+characterized #F_PREV_disorder #F_PREV2_neurodegenerative #F_NEXT_by #F_POS_VBD
+by #F_PREV_characterized #F_PREV2_disorder #F_NEXT_cognitive #F_POS_IN
+cognitive #F_PREV_by #F_PREV2_characterized #F_NEXT_decline #F_POS_JJ
+decline #F_PREV_cognitive #F_PREV2_by #F_NEXT_, #F_POS_NN
+, #F_PREV_decline #F_PREV2_cognitive #F_NEXT_impaired #F_POS_,
+impaired #F_PREV_, #F_PREV2_decline #F_NEXT_performance #F_POS_VBD
+performance #F_PREV_impaired #F_PREV2_, #F_NEXT_of #F_POS_NN
+of #F_PREV_performance #F_PREV2_impaired #F_NEXT_activities #F_POS_IN
+activities #F_PREV_of #F_PREV2_performance #F_NEXT_of #F_POS_NNS
+of #F_PREV_activities #F_PREV2_of #F_NEXT_daily #F_POS_IN
+daily #F_PREV_of #F_PREV2_activities #F_NEXT_living #F_POS_JJ
+living #F_PREV_daily #F_PREV2_of #F_NEXT_, #F_POS_NN
+, #F_PREV_living #F_PREV2_daily #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_living #F_NEXT_behavioral #F_POS_CC
+behavioral #F_PREV_and #F_PREV2_, #F_NEXT_and #F_POS_JJ
+and #F_PREV_behavioral #F_PREV2_and #F_NEXT_psychiatric #F_POS_CC
+psychiatric #F_PREV_and #F_PREV2_behavioral #F_NEXT_signs #F_POS_JJ
+signs #F_PREV_psychiatric #F_PREV2_and #F_NEXT_and #F_POS_NNS
+and #F_PREV_signs #F_PREV2_psychiatric #F_NEXT_symptoms #F_POS_CC
+symptoms #F_PREV_and #F_PREV2_signs #F_NEXT_. #F_POS_NNS
+. #F_PREV_symptoms #F_PREV2_and #F_POS_.
+
+Memantine #F_PREV2_antagonist #F_NEXT_is #F_POS_NNP
+is #F_PREV_Memantine #F_NEXT_a #F_POS_VBZ
+a #F_PREV_is #F_PREV2_Memantine #F_NEXT_low #F_POS_DT
+low #F_PREV_a #F_PREV2_is #F_NEXT_- #F_POS_JJ
+- #F_PREV_low #F_PREV2_a #F_NEXT_to #F_POS_:
+to #F_PREV_- #F_PREV2_low #F_NEXT_moderate #F_POS_TO
+moderate #F_PREV_to #F_PREV2_- #F_NEXT_- #F_POS_VB
+- #F_PREV_moderate #F_PREV2_to #F_NEXT_affinity #F_POS_:
+affinity #F_PREV_- #F_PREV2_moderate #F_NEXT_, #F_POS_NN
+, #F_PREV_affinity #F_PREV2_- #F_NEXT_uncompetitive #F_POS_,
+uncompetitive #F_PREV_, #F_PREV2_affinity #F_NEXT_N #F_POS_JJ
+N #F_PREV_uncompetitive #F_PREV2_, #F_NEXT_- #F_POS_NNP
+- #F_PREV_N #F_PREV2_uncompetitive #F_NEXT_methyl #F_POS_:
+methyl #F_PREV_- #F_PREV2_N #F_NEXT_- #F_POS_NN
+- #F_PREV_methyl #F_PREV2_- #F_NEXT_D #F_POS_:
+D #F_PREV_- #F_PREV2_methyl #F_NEXT_- #F_POS_NNP
+- #F_PREV_D #F_PREV2_- #F_NEXT_aspartate #F_POS_:
+aspartate #F_PREV_- #F_PREV2_D #F_NEXT_receptor #F_POS_JJ
+receptor #F_PREV_aspartate #F_PREV2_- #F_NEXT_antagonist #F_POS_NN
+antagonist #F_PREV_receptor #F_PREV2_aspartate #F_NEXT_. #F_POS_NN
+. #F_PREV_antagonist #F_PREV2_receptor #F_POS_.
+
+Controlled #F_PREV2_performed #F_NEXT_trials #F_POS_JJ
+trials #F_PREV_Controlled #F_NEXT_have #F_POS_NNS
+have #F_PREV_trials #F_PREV2_Controlled #F_NEXT_demonstrated #F_POS_VBP
+demonstrated #F_PREV_have #F_PREV2_trials #F_NEXT_the #F_POS_VBN
+the #F_PREV_demonstrated #F_PREV2_have #F_NEXT_safety #F_POS_DT
+safety #F_PREV_the #F_PREV2_demonstrated #F_NEXT_and #F_POS_NN
+and #F_PREV_safety #F_PREV2_the #F_NEXT_efficacy #F_POS_CC
+efficacy #F_PREV_and #F_PREV2_safety #F_NEXT_of #F_POS_NN
+of #F_PREV_efficacy #F_PREV2_and #F_NEXT_memantine #F_POS_IN
+memantine #F_PREV_of #F_PREV2_efficacy #F_NEXT_monotherapy #F_POS_NN
+monotherapy #F_PREV_memantine #F_PREV2_of #F_NEXT_for #F_POS_NN
+for #F_PREV_monotherapy #F_PREV2_memantine #F_NEXT_patients #F_POS_IN
+patients #F_PREV_for #F_PREV2_monotherapy #F_NEXT_with #F_POS_NNS
+with #F_PREV_patients #F_PREV2_for #F_NEXT_moderate #F_POS_IN
+moderate #F_PREV_with #F_PREV2_patients #F_NEXT_to #F_POS_JJ
+to #F_PREV_moderate #F_PREV2_with #F_NEXT_severe #F_POS_TO
+severe #F_PREV_to #F_PREV2_moderate #F_NEXT_Alzheimer #F_POS_VB
+Alzheimer #F_PREV_severe #F_PREV2_to #F_NEXT_disease #F_POS_NNP
+disease #F_PREV_Alzheimer #F_PREV2_severe #F_NEXT_but #F_POS_NN
+but #F_PREV_disease #F_PREV2_Alzheimer #F_NEXT_no #F_POS_CC
+no #F_PREV_but #F_PREV2_disease #F_NEXT_controlled #F_POS_DT
+controlled #F_PREV_no #F_PREV2_but #F_NEXT_trials #F_POS_JJ
+trials #F_PREV_controlled #F_PREV2_no #F_NEXT_of #F_POS_NNS
+of #F_PREV_trials #F_PREV2_controlled #F_NEXT_memantine #F_POS_IN
+memantine #F_PREV_of #F_PREV2_trials #F_NEXT_in #F_POS_NN
+in #F_PREV_memantine #F_PREV2_of #F_NEXT_patients #F_POS_IN
+patients #F_PREV_in #F_PREV2_memantine #F_NEXT_receiving #F_POS_NNS
+receiving #F_PREV_patients #F_PREV2_in #F_NEXT_a #F_POS_VBG
+a #F_PREV_receiving #F_PREV2_patients #F_NEXT_cholinesterase #F_POS_DT
+cholinesterase #F_PREV_a #F_PREV2_receiving #F_NEXT_inhibitor #F_POS_NN
+inhibitor #F_PREV_cholinesterase #F_PREV2_a #F_NEXT_have #F_POS_NN
+have #F_PREV_inhibitor #F_PREV2_cholinesterase #F_NEXT_been #F_POS_VBP
+been #F_PREV_have #F_PREV2_inhibitor #F_NEXT_performed #F_POS_VBN
+performed #F_PREV_been #F_PREV2_have #F_NEXT_. #F_POS_VBN
+. #F_PREV_performed #F_PREV2_been #F_POS_.
+
+Golden #F_PREV2_DMD #F_NEXT_retriever #F_POS_NNP
+retriever #F_PREV_Golden #F_NEXT_muscular #F_POS_NN
+muscular #F_PREV_retriever #F_PREV2_Golden #F_NEXT_dystrophy #F_POS_NN
+dystrophy #F_PREV_muscular #F_PREV2_retriever #F_NEXT_( #F_POS_NN
+( #F_PREV_dystrophy #F_PREV2_muscular #F_NEXT_GRMD #F_POS_:
+GRMD #F_PREV_( #F_PREV2_dystrophy #F_NEXT_) #F_POS_NNP
+) #F_PREV_GRMD #F_PREV2_( #F_NEXT_is #F_POS_:
+is #F_PREV_) #F_PREV2_GRMD #F_NEXT_a #F_POS_VBZ
+a #F_PREV_is #F_PREV2_) #F_NEXT_spontaneous #F_POS_DT
+spontaneous #F_PREV_a #F_PREV2_is #F_NEXT_, #F_POS_JJ
+, #F_PREV_spontaneous #F_PREV2_a #F_NEXT_X #F_POS_,
+X #F_PREV_, #F_PREV2_spontaneous #F_NEXT_- #F_POS_NNP
+- #F_PREV_X #F_PREV2_, #F_NEXT_linked #F_POS_:
+linked #F_PREV_- #F_PREV2_X #F_NEXT_, #F_POS_VBD
+, #F_PREV_linked #F_PREV2_- #F_NEXT_progressively #F_POS_,
+progressively #F_PREV_, #F_PREV2_linked #F_NEXT_fatal #F_POS_RB
+fatal #F_PREV_progressively #F_PREV2_, #F_NEXT_disease #F_POS_JJ
+disease #F_PREV_fatal #F_PREV2_progressively #F_NEXT_of #F_POS_NN
+of #F_PREV_disease #F_PREV2_fatal #F_NEXT_dogs #F_POS_IN
+dogs #F_PREV_of #F_PREV2_disease #F_NEXT_and #F_POS_NNS
+and #F_PREV_dogs #F_PREV2_of #F_NEXT_is #F_POS_CC
+is #F_PREV_and #F_PREV2_dogs #F_NEXT_also #F_POS_VBZ
+also #F_PREV_is #F_PREV2_and #F_NEXT_a #F_POS_RB
+a #F_PREV_also #F_PREV2_is #F_NEXT_homologue #F_POS_DT
+homologue #F_PREV_a #F_PREV2_also #F_NEXT_of #F_POS_NN
+of #F_PREV_homologue #F_PREV2_a #F_NEXT_Duchenne #F_POS_IN
+Duchenne #F_PREV_of #F_PREV2_homologue #F_NEXT_muscular #F_POS_NNP
+muscular #F_PREV_Duchenne #F_PREV2_of #F_NEXT_dystrophy #F_POS_JJ
+dystrophy #F_PREV_muscular #F_PREV2_Duchenne #F_NEXT_DMD #F_POS_NN
+DMD #F_PREV_dystrophy #F_PREV2_muscular #F_NEXT_. #F_POS_NNP
+. #F_PREV_DMD #F_PREV2_dystrophy #F_POS_.
+
+Single #F_PREV2_levels #F_NEXT_- #F_POS_NNP
+- #F_PREV_Single #F_NEXT_drug #F_POS_:
+drug #F_PREV_- #F_PREV2_Single #F_NEXT_therapy #F_POS_NN
+therapy #F_PREV_drug #F_PREV2_- #F_NEXT_remains #F_POS_NN
+remains #F_PREV_therapy #F_PREV2_drug #F_NEXT_the #F_POS_VBZ
+the #F_PREV_remains #F_PREV2_therapy #F_NEXT_preferred #F_POS_DT
+preferred #F_PREV_the #F_PREV2_remains #F_NEXT_way #F_POS_VBN
+way #F_PREV_preferred #F_PREV2_the #F_NEXT_to #F_POS_NN
+to #F_PREV_way #F_PREV2_preferred #F_NEXT_begin #F_POS_TO
+begin #F_PREV_to #F_PREV2_way #F_NEXT_treatment #F_POS_VB
+treatment #F_PREV_begin #F_PREV2_to #F_NEXT_of #F_POS_NN
+of #F_PREV_treatment #F_PREV2_begin #F_NEXT_hypertension #F_POS_IN
+hypertension #F_PREV_of #F_PREV2_treatment #F_NEXT_, #F_POS_NN
+, #F_PREV_hypertension #F_PREV2_of #F_NEXT_although #F_POS_,
+although #F_PREV_, #F_PREV2_hypertension #F_NEXT_in #F_POS_IN
+in #F_PREV_although #F_PREV2_, #F_NEXT_many #F_POS_IN
+many #F_PREV_in #F_PREV2_although #F_NEXT_patients #F_POS_JJ
+patients #F_PREV_many #F_PREV2_in #F_NEXT_this #F_POS_NNS
+this #F_PREV_patients #F_PREV2_many #F_NEXT_is #F_POS_DT
+is #F_PREV_this #F_PREV2_patients #F_NEXT_unable #F_POS_VBZ
+unable #F_PREV_is #F_PREV2_this #F_NEXT_to #F_POS_JJ
+to #F_PREV_unable #F_PREV2_is #F_NEXT_bring #F_POS_TO
+bring #F_PREV_to #F_PREV2_unable #F_NEXT_blood #F_POS_VB
+blood #F_PREV_bring #F_PREV2_to #F_NEXT_pressure #F_POS_NN
+pressure #F_PREV_blood #F_PREV2_bring #F_NEXT_( #F_POS_NN
+( #F_PREV_pressure #F_PREV2_blood #F_NEXT_BP #F_POS_:
+BP #F_PREV_( #F_PREV2_pressure #F_NEXT_) #F_POS_NNP
+) #F_PREV_BP #F_PREV2_( #F_NEXT_to #F_POS_:
+to #F_PREV_) #F_PREV2_BP #F_NEXT_goal #F_POS_TO
+goal #F_PREV_to #F_PREV2_) #F_NEXT_levels #F_POS_NN
+levels #F_PREV_goal #F_PREV2_to #F_NEXT_. #F_POS_NNS
+. #F_PREV_levels #F_PREV2_goal #F_POS_.
+
+Investigated #F_PREV2_dose #F_NEXT_the #F_POS_NNP
+the #F_PREV_Investigated #F_NEXT_safety #F_POS_DT
+safety #F_PREV_the #F_PREV2_Investigated #F_NEXT_and #F_POS_NN
+and #F_PREV_safety #F_PREV2_the #F_NEXT_efficacy #F_POS_CC
+efficacy #F_PREV_and #F_PREV2_safety #F_NEXT_of #F_POS_NN
+of #F_PREV_efficacy #F_PREV2_and #F_NEXT_risperidone #F_POS_IN
+risperidone #F_PREV_of #F_PREV2_efficacy #F_NEXT_( #F_POS_NN
+( #F_PREV_risperidone #F_PREV2_of #F_NEXT_RPD #F_POS_:
+RPD #F_PREV_( #F_PREV2_risperidone #F_NEXT_) #F_POS_NNP
+) #F_PREV_RPD #F_PREV2_( #F_NEXT_in #F_POS_:
+in #F_PREV_) #F_PREV2_RPD #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_) #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_the #F_PREV2_in #F_NEXT_of #F_POS_NN
+of #F_PREV_treatment #F_PREV2_the #F_NEXT_183 #F_POS_IN
+183 #F_PREV_of #F_PREV2_treatment #F_NEXT_adult #F_POS_CD
+adult #F_PREV_183 #F_PREV2_of #F_NEXT_schizophrenic #F_POS_NN
+schizophrenic #F_PREV_adult #F_PREV2_183 #F_NEXT_patients #F_POS_JJ
+patients #F_PREV_schizophrenic #F_PREV2_adult #F_NEXT_and #F_POS_NNS
+and #F_PREV_patients #F_PREV2_schizophrenic #F_NEXT_determined #F_POS_CC
+determined #F_PREV_and #F_PREV2_patients #F_NEXT_the #F_POS_VBD
+the #F_PREV_determined #F_PREV2_and #F_NEXT_drug #F_POS_DT
+drug #F_PREV_the #F_PREV2_determined #F_NEXT_' #F_POS_NN
+' #F_PREV_drug #F_PREV2_the #F_NEXT_s #F_POS_POS
+s #F_PREV_' #F_PREV2_drug #F_NEXT_optimal #F_POS_NNS
+optimal #F_PREV_s #F_PREV2_' #F_NEXT_dose #F_POS_JJ
+dose #F_PREV_optimal #F_PREV2_s #F_NEXT_. #F_POS_NN
+. #F_PREV_dose #F_PREV2_optimal #F_POS_.
+
+In #F_PREV2_) #F_NEXT_a #F_POS_IN
+a #F_PREV_In #F_NEXT_double #F_POS_DT
+double #F_PREV_a #F_PREV2_In #F_NEXT_- #F_POS_JJ
+- #F_PREV_double #F_PREV2_a #F_NEXT_blind #F_POS_:
+blind #F_PREV_- #F_PREV2_double #F_NEXT_study #F_POS_JJ
+study #F_PREV_blind #F_PREV2_- #F_NEXT_, #F_POS_NN
+, #F_PREV_study #F_PREV2_blind #F_NEXT_we #F_POS_,
+we #F_PREV_, #F_PREV2_study #F_NEXT_compared #F_POS_PRP
+compared #F_PREV_we #F_PREV2_, #F_NEXT_the #F_POS_VBD
+the #F_PREV_compared #F_PREV2_we #F_NEXT_final #F_POS_DT
+final #F_PREV_the #F_PREV2_compared #F_NEXT_outcome #F_POS_JJ
+outcome #F_PREV_final #F_PREV2_the #F_NEXT_of #F_POS_NN
+of #F_PREV_outcome #F_PREV2_final #F_NEXT_99 #F_POS_IN
+99 #F_PREV_of #F_PREV2_outcome #F_NEXT_Bell #F_POS_CD
+Bell #F_PREV_99 #F_PREV2_of #F_NEXT_' #F_POS_NNP
+' #F_PREV_Bell #F_PREV2_99 #F_NEXT_s #F_POS_POS
+s #F_PREV_' #F_PREV2_Bell #F_NEXT_palsy #F_POS_NNS
+palsy #F_PREV_s #F_PREV2_' #F_NEXT_patients #F_POS_VBP
+patients #F_PREV_palsy #F_PREV2_s #F_NEXT_treated #F_POS_NNS
+treated #F_PREV_patients #F_PREV2_palsy #F_NEXT_with #F_POS_VBN
+with #F_PREV_treated #F_PREV2_patients #F_NEXT_either #F_POS_IN
+either #F_PREV_with #F_PREV2_treated #F_NEXT_acyclovir #F_POS_DT
+acyclovir #F_PREV_either #F_PREV2_with #F_NEXT_- #F_POS_NN
+- #F_PREV_acyclovir #F_PREV2_either #F_NEXT_prednisone #F_POS_:
+prednisone #F_PREV_- #F_PREV2_acyclovir #F_NEXT_( #F_POS_NN
+( #F_PREV_prednisone #F_PREV2_- #F_NEXT_53 #F_POS_:
+53 #F_PREV_( #F_PREV2_prednisone #F_NEXT_patients #F_POS_CD
+patients #F_PREV_53 #F_PREV2_( #F_NEXT_) #F_POS_NNS
+) #F_PREV_patients #F_PREV2_53 #F_NEXT_or #F_POS_:
+or #F_PREV_) #F_PREV2_patients #F_NEXT_placebo #F_POS_CC
+placebo #F_PREV_or #F_PREV2_) #F_NEXT_- #F_POS_NN
+- #F_PREV_placebo #F_PREV2_or #F_NEXT_prednisone #F_POS_:
+prednisone #F_PREV_- #F_PREV2_placebo #F_NEXT_( #F_POS_NN
+( #F_PREV_prednisone #F_PREV2_- #F_NEXT_46 #F_POS_:
+46 #F_PREV_( #F_PREV2_prednisone #F_NEXT_patients #F_POS_CD
+patients #F_PREV_46 #F_PREV2_( #F_NEXT_) #F_POS_NNS
+) #F_PREV_patients #F_PREV2_46 #F_NEXT_. #F_POS_:
+. #F_PREV_) #F_PREV2_patients #F_POS_.
+
+In #F_PREV2_episodes #F_NEXT_1994 #F_POS_IN
+1994 #F_PREV_In #F_NEXT_, #F_POS_CD
+, #F_PREV_1994 #F_PREV2_In #F_NEXT_the #F_POS_,
+the #F_PREV_, #F_PREV2_1994 #F_NEXT_National #F_POS_DT
+National #F_PREV_the #F_PREV2_, #F_NEXT_Center #F_POS_NNP
+Center #F_PREV_National #F_PREV2_the #F_NEXT_for #F_POS_NNP
+for #F_PREV_Center #F_PREV2_National #F_NEXT_Health #F_POS_IN
+Health #F_PREV_for #F_PREV2_Center #F_NEXT_Statistics #F_POS_NNP
+Statistics #F_PREV_Health #F_PREV2_for #F_NEXT_estimated #F_POS_NNP
+estimated #F_PREV_Statistics #F_PREV2_Health #F_NEXT_that #F_POS_VBD
+that #F_PREV_estimated #F_PREV2_Statistics #F_NEXT_more #F_POS_IN
+more #F_PREV_that #F_PREV2_estimated #F_NEXT_than #F_POS_JJR
+than #F_PREV_more #F_PREV2_that #F_NEXT_14 #F_POS_IN
+14 #F_PREV_than #F_PREV2_more #F_NEXT_million #F_POS_CD
+million #F_PREV_14 #F_PREV2_than #F_NEXT_people #F_POS_CD
+people #F_PREV_million #F_PREV2_14 #F_NEXT_( #F_POS_NNS
+( #F_PREV_people #F_PREV2_million #F_NEXT_54 #F_POS_:
+54 #F_PREV_( #F_PREV2_people #F_NEXT_per #F_POS_CD
+per #F_PREV_54 #F_PREV2_( #F_NEXT_thousand #F_POS_IN
+thousand #F_PREV_per #F_PREV2_54 #F_NEXT_) #F_POS_NN
+) #F_PREV_thousand #F_PREV2_per #F_NEXT_had #F_POS_:
+had #F_PREV_) #F_PREV2_thousand #F_NEXT_chronic #F_POS_VBD
+chronic #F_PREV_had #F_PREV2_) #F_NEXT_bronchitis #F_POS_JJ
+bronchitis #F_PREV_chronic #F_PREV2_had #F_NEXT_and #F_POS_NNS
+and #F_PREV_bronchitis #F_PREV2_chronic #F_NEXT_sought #F_POS_CC
+sought #F_PREV_and #F_PREV2_bronchitis #F_NEXT_treatment #F_POS_VBD
+treatment #F_PREV_sought #F_PREV2_and #F_NEXT_for #F_POS_NN
+for #F_PREV_treatment #F_PREV2_sought #F_NEXT_90.9 #F_POS_IN
+90.9 #F_PREV_for #F_PREV2_treatment #F_NEXT_% #F_POS_CD
+% #F_PREV_90.9 #F_PREV2_for #F_NEXT_of #F_POS_NN
+of #F_PREV_% #F_PREV2_90.9 #F_NEXT_their #F_POS_IN
+their #F_PREV_of #F_PREV2_% #F_NEXT_acute #F_POS_PRP$
+acute #F_PREV_their #F_PREV2_of #F_NEXT_episodes #F_POS_JJ
+episodes #F_PREV_acute #F_PREV2_their #F_NEXT_. #F_POS_NNS
+. #F_PREV_episodes #F_PREV2_acute #F_POS_.
+
+However #F_PREV2_data #F_NEXT_, #F_POS_RB
+, #F_PREV_However #F_NEXT_few #F_POS_,
+few #F_PREV_, #F_PREV2_However #F_NEXT_studies #F_POS_JJ
+studies #F_PREV_few #F_PREV2_, #F_NEXT_have #F_POS_NNS
+have #F_PREV_studies #F_PREV2_few #F_NEXT_been #F_POS_VBP
+been #F_PREV_have #F_PREV2_studies #F_NEXT_done #F_POS_VBN
+done #F_PREV_been #F_PREV2_have #F_NEXT_on #F_POS_VBN
+on #F_PREV_done #F_PREV2_been #F_NEXT_the #F_POS_IN
+the #F_PREV_on #F_PREV2_done #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_the #F_PREV2_on #F_NEXT_cost #F_POS_NN
+cost #F_PREV_treatment #F_PREV2_the #F_NEXT_of #F_POS_NN
+of #F_PREV_cost #F_PREV2_treatment #F_NEXT_chronic #F_POS_IN
+chronic #F_PREV_of #F_PREV2_cost #F_NEXT_bronchitis #F_POS_JJ
+bronchitis #F_PREV_chronic #F_PREV2_of #F_NEXT_using #F_POS_NNS
+using #F_PREV_bronchitis #F_PREV2_chronic #F_NEXT_national #F_POS_VBG
+national #F_PREV_using #F_PREV2_bronchitis #F_NEXT_data #F_POS_JJ
+data #F_PREV_national #F_PREV2_using #F_NEXT_. #F_POS_NNS
+. #F_PREV_data #F_PREV2_national #F_POS_.
+
+We #F_PREV2_care #F_NEXT_conducted #F_POS_PRP
+conducted #F_PREV_We #F_NEXT_a #F_POS_VBD
+a #F_PREV_conducted #F_PREV2_We #F_NEXT_retrospective #F_POS_DT
+retrospective #F_PREV_a #F_PREV2_conducted #F_NEXT_analysis #F_POS_JJ
+analysis #F_PREV_retrospective #F_PREV2_a #F_NEXT_of #F_POS_NN
+of #F_PREV_analysis #F_PREV2_retrospective #F_NEXT_claims #F_POS_IN
+claims #F_PREV_of #F_PREV2_analysis #F_NEXT_for #F_POS_NNS
+for #F_PREV_claims #F_PREV2_of #F_NEXT_patients #F_POS_IN
+patients #F_PREV_for #F_PREV2_claims #F_NEXT_treated #F_POS_NNS
+treated #F_PREV_patients #F_PREV2_for #F_NEXT_for #F_POS_VBN
+for #F_PREV_treated #F_PREV2_patients #F_NEXT_acute #F_POS_IN
+acute #F_PREV_for #F_PREV2_treated #F_NEXT_exacerbations #F_POS_JJ
+exacerbations #F_PREV_acute #F_PREV2_for #F_NEXT_of #F_POS_NNS
+of #F_PREV_exacerbations #F_PREV2_acute #F_NEXT_chronic #F_POS_IN
+chronic #F_PREV_of #F_PREV2_exacerbations #F_NEXT_bronchitis #F_POS_JJ
+bronchitis #F_PREV_chronic #F_PREV2_of #F_NEXT_( #F_POS_NNS
+( #F_PREV_bronchitis #F_PREV2_chronic #F_NEXT_AECB #F_POS_:
+AECB #F_PREV_( #F_PREV2_bronchitis #F_NEXT_) #F_POS_NNP
+) #F_PREV_AECB #F_PREV2_( #F_NEXT_to #F_POS_:
+to #F_PREV_) #F_PREV2_AECB #F_NEXT_assess #F_POS_TO
+assess #F_PREV_to #F_PREV2_) #F_NEXT_the #F_POS_NN
+the #F_PREV_assess #F_PREV2_to #F_NEXT_requency #F_POS_DT
+requency #F_PREV_the #F_PREV2_assess #F_NEXT_of #F_POS_NN
+of #F_PREV_requency #F_PREV2_the #F_NEXT_services #F_POS_IN
+services #F_PREV_of #F_PREV2_requency #F_NEXT_rendered #F_POS_NNS
+rendered #F_PREV_services #F_PREV2_of #F_NEXT_and #F_POS_VBN
+and #F_PREV_rendered #F_PREV2_services #F_NEXT_the #F_POS_CC
+the #F_PREV_and #F_PREV2_rendered #F_NEXT_costs #F_POS_DT
+costs #F_PREV_the #F_PREV2_and #F_NEXT_to #F_POS_NNS
+to #F_PREV_costs #F_PREV2_the #F_NEXT_the #F_POS_TO
+the #F_PREV_to #F_PREV2_costs #F_NEXT_health #F_POS_DT
+health #F_PREV_the #F_PREV2_to #F_NEXT_care #F_POS_NN
+care #F_PREV_health #F_PREV2_the #F_NEXT_system. #F_POS_NN
+system. #F_PREV_care #F_PREV2_health #F_POS_NNP
+
+Estrogen #F_PREV2_Disease #F_NEXT_replacement #F_POS_NNP
+replacement #F_PREV_Estrogen #F_NEXT_therapy #F_POS_VBD
+therapy #F_PREV_replacement #F_PREV2_Estrogen #F_NEXT_for #F_POS_NN
+for #F_PREV_therapy #F_PREV2_replacement #F_NEXT_1 #F_POS_IN
+1 #F_PREV_for #F_PREV2_therapy #F_NEXT_year #F_POS_CD
+year #F_PREV_1 #F_PREV2_for #F_NEXT_did #F_POS_NN
+did #F_PREV_year #F_PREV2_1 #F_NEXT_not #F_POS_VBD
+not #F_PREV_did #F_PREV2_year #F_NEXT_slow #F_POS_RB
+slow #F_PREV_not #F_PREV2_did #F_NEXT_disease #F_POS_JJ
+disease #F_PREV_slow #F_PREV2_not #F_NEXT_progression #F_POS_NN
+progression #F_PREV_disease #F_PREV2_slow #F_NEXT_nor #F_POS_NN
+nor #F_PREV_progression #F_PREV2_disease #F_NEXT_did #F_POS_CC
+did #F_PREV_nor #F_PREV2_progression #F_NEXT_it #F_POS_VBD
+it #F_PREV_did #F_PREV2_nor #F_NEXT_improve #F_POS_PRP
+improve #F_PREV_it #F_PREV2_did #F_NEXT_global, #F_POS_VB
+global, #F_PREV_improve #F_PREV2_it #F_NEXT_cognitive, #F_POS_-NONE-
+cognitive, #F_PREV_global, #F_PREV2_improve #F_NEXT_or #F_POS_-NONE-
+or #F_PREV_cognitive, #F_PREV2_global, #F_NEXT_functional #F_POS_CC
+functional #F_PREV_or #F_PREV2_cognitive, #F_NEXT_outcomes #F_POS_JJ
+outcomes #F_PREV_functional #F_PREV2_or #F_NEXT_in #F_POS_NNS
+in #F_PREV_outcomes #F_PREV2_functional #F_NEXT_women #F_POS_IN
+women #F_PREV_in #F_PREV2_outcomes #F_NEXT_with #F_POS_NNS
+with #F_PREV_women #F_PREV2_in #F_NEXT_mild #F_POS_IN
+mild #F_PREV_with #F_PREV2_women #F_NEXT_to #F_POS_NN
+to #F_PREV_mild #F_PREV2_with #F_NEXT_moderate #F_POS_TO
+moderate #F_PREV_to #F_PREV2_mild #F_NEXT_Alzheimer #F_POS_VB
+Alzheimer #F_PREV_moderate #F_PREV2_to #F_NEXT_Disease #F_POS_NNP
+Disease #F_PREV_Alzheimer #F_PREV2_moderate #F_NEXT_. #F_POS_NNP
+. #F_PREV_Disease #F_PREV2_Alzheimer #F_POS_.
+
+The #F_PREV2_disease #F_NEXT_study #F_POS_DT
+study #F_PREV_The #F_NEXT_does #F_POS_NN
+does #F_PREV_study #F_PREV2_The #F_NEXT_not #F_POS_VBZ
+not #F_PREV_does #F_PREV2_study #F_NEXT_support #F_POS_RB
+support #F_PREV_not #F_PREV2_does #F_NEXT_the #F_POS_VB
+the #F_PREV_support #F_PREV2_not #F_NEXT_role #F_POS_DT
+role #F_PREV_the #F_PREV2_support #F_NEXT_of #F_POS_NN
+of #F_PREV_role #F_PREV2_the #F_NEXT_estrogen #F_POS_IN
+estrogen #F_PREV_of #F_PREV2_role #F_NEXT_for #F_POS_NN
+for #F_PREV_estrogen #F_PREV2_of #F_NEXT_the #F_POS_IN
+the #F_PREV_for #F_PREV2_estrogen #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_the #F_PREV2_for #F_NEXT_of #F_POS_NN
+of #F_PREV_treatment #F_PREV2_the #F_NEXT_this #F_POS_IN
+this #F_PREV_of #F_PREV2_treatment #F_NEXT_disease #F_POS_DT
+disease #F_PREV_this #F_PREV2_of #F_NEXT_. #F_POS_NN
+. #F_PREV_disease #F_PREV2_this #F_POS_.
+
+Transplantation #F_PREV2_diabetes #F_NEXT_of #F_POS_NN
+of #F_PREV_Transplantation #F_NEXT_insulin #F_POS_IN
+insulin #F_PREV_of #F_PREV2_Transplantation #F_NEXT_- #F_POS_NN
+- #F_PREV_insulin #F_PREV2_of #F_NEXT_producing #F_POS_:
+producing #F_PREV_- #F_PREV2_insulin #F_NEXT_cells #F_POS_VBG
+cells #F_PREV_producing #F_PREV2_- #F_NEXT_offers #F_POS_NNS
+offers #F_PREV_cells #F_PREV2_producing #F_NEXT_a #F_POS_NNS
+a #F_PREV_offers #F_PREV2_cells #F_NEXT_promising #F_POS_DT
+promising #F_PREV_a #F_PREV2_offers #F_NEXT_therapy #F_POS_NN
+therapy #F_PREV_promising #F_PREV2_a #F_NEXT_to #F_POS_NN
+to #F_PREV_therapy #F_PREV2_promising #F_NEXT_treat #F_POS_TO
+treat #F_PREV_to #F_PREV2_therapy #F_NEXT_diabetes #F_POS_VB
+diabetes #F_PREV_treat #F_PREV2_to #F_NEXT_. #F_POS_NNS
+. #F_PREV_diabetes #F_PREV2_treat #F_POS_.
+
+However #F_PREV2_cells #F_NEXT_, #F_POS_RB
+, #F_PREV_However #F_NEXT_due #F_POS_,
+due #F_PREV_, #F_PREV2_However #F_NEXT_to #F_POS_JJ
+to #F_PREV_due #F_PREV2_, #F_NEXT_the #F_POS_TO
+the #F_PREV_to #F_PREV2_due #F_NEXT_limited #F_POS_DT
+limited #F_PREV_the #F_PREV2_to #F_NEXT_number #F_POS_JJ
+number #F_PREV_limited #F_PREV2_the #F_NEXT_of #F_POS_NN
+of #F_PREV_number #F_PREV2_limited #F_NEXT_donor #F_POS_IN
+donor #F_PREV_of #F_PREV2_number #F_NEXT_islet #F_POS_NN
+islet #F_PREV_donor #F_PREV2_of #F_NEXT_cells #F_POS_NN
+cells #F_PREV_islet #F_PREV2_donor #F_NEXT_available #F_POS_NNS
+available #F_PREV_cells #F_PREV2_islet #F_NEXT_, #F_POS_JJ
+, #F_PREV_available #F_PREV2_cells #F_NEXT_researchers #F_POS_,
+researchers #F_PREV_, #F_PREV2_available #F_NEXT_are #F_POS_NNS
+are #F_PREV_researchers #F_PREV2_, #F_NEXT_looking #F_POS_VBP
+looking #F_PREV_are #F_PREV2_researchers #F_NEXT_for #F_POS_VBG
+for #F_PREV_looking #F_PREV2_are #F_NEXT_different #F_POS_IN
+different #F_PREV_for #F_PREV2_looking #F_NEXT_sources #F_POS_JJ
+sources #F_PREV_different #F_PREV2_for #F_NEXT_of #F_POS_NNS
+of #F_PREV_sources #F_PREV2_different #F_NEXT_pancreatic #F_POS_IN
+pancreatic #F_PREV_of #F_PREV2_sources #F_NEXT_islet #F_POS_JJ
+islet #F_PREV_pancreatic #F_PREV2_of #F_NEXT_progenitor #F_POS_NN
+progenitor #F_PREV_islet #F_PREV2_pancreatic #F_NEXT_or #F_POS_NN
+or #F_PREV_progenitor #F_PREV2_islet #F_NEXT_stem #F_POS_CC
+stem #F_PREV_or #F_PREV2_progenitor #F_NEXT_cells #F_POS_NN
+cells #F_PREV_stem #F_PREV2_or #F_NEXT_. #F_POS_NNS
+. #F_PREV_cells #F_PREV2_stem #F_POS_.
+
+The #F_PREV2_infection #F_NEXT_Zaire #F_POS_DT
+Zaire #F_PREV_The #F_NEXT_subtype #F_POS_NNP
+subtype #F_PREV_Zaire #F_PREV2_The #F_NEXT_of #F_POS_NN
+of #F_PREV_subtype #F_PREV2_Zaire #F_NEXT_Ebola #F_POS_IN
+Ebola #F_PREV_of #F_PREV2_subtype #F_NEXT_virus #F_POS_NNP
+virus #F_PREV_Ebola #F_PREV2_of #F_NEXT_( #F_POS_NN
+( #F_PREV_virus #F_PREV2_Ebola #F_NEXT_EBO-Z #F_POS_:
+EBO-Z #F_PREV_( #F_PREV2_virus #F_NEXT_) #F_POS_JJ
+) #F_PREV_EBO-Z #F_PREV2_( #F_NEXT_is #F_POS_NN
+is #F_PREV_) #F_PREV2_EBO-Z #F_NEXT_lethal #F_POS_VBZ
+lethal #F_PREV_is #F_PREV2_) #F_NEXT_for #F_POS_JJ
+for #F_PREV_lethal #F_PREV2_is #F_NEXT_newborn #F_POS_IN
+newborn #F_PREV_for #F_PREV2_lethal #F_NEXT_mice #F_POS_NN
+mice #F_PREV_newborn #F_PREV2_for #F_NEXT_, #F_POS_NN
+, #F_PREV_mice #F_PREV2_newborn #F_NEXT_but #F_POS_,
+but #F_PREV_, #F_PREV2_mice #F_NEXT_adult #F_POS_CC
+adult #F_PREV_but #F_PREV2_, #F_NEXT_mice #F_POS_NN
+mice #F_PREV_adult #F_PREV2_but #F_NEXT_are #F_POS_NN
+are #F_PREV_mice #F_PREV2_adult #F_NEXT_resistant #F_POS_VBP
+resistant #F_PREV_are #F_PREV2_mice #F_NEXT_to #F_POS_JJ
+to #F_PREV_resistant #F_PREV2_are #F_NEXT_the #F_POS_TO
+the #F_PREV_to #F_PREV2_resistant #F_NEXT_virus #F_POS_DT
+virus #F_PREV_the #F_PREV2_to #F_NEXT_, #F_POS_NN
+, #F_PREV_virus #F_PREV2_the #F_NEXT_which #F_POS_,
+which #F_PREV_, #F_PREV2_virus #F_NEXT_prevents #F_POS_WDT
+prevents #F_PREV_which #F_PREV2_, #F_NEXT_their #F_POS_NNS
+their #F_PREV_prevents #F_PREV2_which #F_NEXT_use #F_POS_PRP$
+use #F_PREV_their #F_PREV2_prevents #F_NEXT_as #F_POS_NN
+as #F_PREV_use #F_PREV2_their #F_NEXT_an #F_POS_IN
+an #F_PREV_as #F_PREV2_use #F_NEXT_animal #F_POS_DT
+animal #F_PREV_an #F_PREV2_as #F_NEXT_model #F_POS_JJ
+model #F_PREV_animal #F_PREV2_an #F_NEXT_of #F_POS_NN
+of #F_PREV_model #F_PREV2_animal #F_NEXT_lethal #F_POS_IN
+lethal #F_PREV_of #F_PREV2_model #F_NEXT_Ebola #F_POS_JJ
+Ebola #F_PREV_lethal #F_PREV2_of #F_NEXT_infection #F_POS_NNP
+infection #F_PREV_Ebola #F_PREV2_lethal #F_NEXT_. #F_POS_NN
+. #F_PREV_infection #F_PREV2_Ebola #F_POS_.
+
+Effective #F_PREV2_infection #F_NEXT_antiviral #F_POS_JJ
+antiviral #F_PREV_Effective #F_NEXT_agents #F_POS_JJ
+agents #F_PREV_antiviral #F_PREV2_Effective #F_NEXT_are #F_POS_NNS
+are #F_PREV_agents #F_PREV2_antiviral #F_NEXT_needed #F_POS_VBP
+needed #F_PREV_are #F_PREV2_agents #F_NEXT_to #F_POS_VBN
+to #F_PREV_needed #F_PREV2_are #F_NEXT_treat #F_POS_TO
+treat #F_PREV_to #F_PREV2_needed #F_NEXT_severe #F_POS_VB
+severe #F_PREV_treat #F_PREV2_to #F_NEXT_acute #F_POS_JJ
+acute #F_PREV_severe #F_PREV2_treat #F_NEXT_respiratory #F_POS_NN
+respiratory #F_PREV_acute #F_PREV2_severe #F_NEXT_syndrome #F_POS_NN
+syndrome #F_PREV_respiratory #F_PREV2_acute #F_NEXT_- #F_POS_NN
+- #F_PREV_syndrome #F_PREV2_respiratory #F_NEXT_associated #F_POS_:
+associated #F_PREV_- #F_PREV2_syndrome #F_NEXT_coronavirus #F_POS_VBN
+coronavirus #F_PREV_associated #F_PREV2_- #F_NEXT_( #F_POS_NN
+( #F_PREV_coronavirus #F_PREV2_associated #F_NEXT_SARS-CoV #F_POS_:
+SARS-CoV #F_PREV_( #F_PREV2_coronavirus #F_NEXT_) #F_POS_NN
+) #F_PREV_SARS-CoV #F_PREV2_( #F_NEXT_infection #F_POS_:
+infection #F_PREV_) #F_PREV2_SARS-CoV #F_NEXT_. #F_POS_NN
+. #F_PREV_infection #F_PREV2_) #F_POS_.
+
+The #F_PREV2_arthritis #F_NEXT_acne #F_POS_DT
+acne #F_PREV_The #F_NEXT_lesions #F_POS_NN
+lesions #F_PREV_acne #F_PREV2_The #F_NEXT_characteristic #F_POS_NNS
+characteristic #F_PREV_lesions #F_PREV2_acne #F_NEXT_of #F_POS_JJ
+of #F_PREV_characteristic #F_PREV2_lesions #F_NEXT_Behet #F_POS_IN
+Behet #F_PREV_of #F_PREV2_characteristic #F_NEXT_' #F_POS_NNP
+' #F_PREV_Behet #F_PREV2_of #F_NEXT_s #F_POS_POS
+s #F_PREV_' #F_PREV2_Behet #F_NEXT_syndrome #F_POS_NNS
+syndrome #F_PREV_s #F_PREV2_' #F_NEXT_are #F_POS_VBP
+are #F_PREV_syndrome #F_PREV2_s #F_NEXT_not #F_POS_VBP
+not #F_PREV_are #F_PREV2_syndrome #F_NEXT_sterile #F_POS_RB
+sterile #F_PREV_not #F_PREV2_are #F_NEXT_and #F_POS_JJ
+and #F_PREV_sterile #F_PREV2_not #F_NEXT_are #F_POS_CC
+are #F_PREV_and #F_PREV2_sterile #F_NEXT_commonly #F_POS_VBP
+commonly #F_PREV_are #F_PREV2_and #F_NEXT_observed #F_POS_RB
+observed #F_PREV_commonly #F_PREV2_are #F_NEXT_in #F_POS_VBN
+in #F_PREV_observed #F_PREV2_commonly #F_NEXT_combination #F_POS_IN
+combination #F_PREV_in #F_PREV2_observed #F_NEXT_with #F_POS_NN
+with #F_PREV_combination #F_PREV2_in #F_NEXT_arthritis #F_POS_IN
+arthritis #F_PREV_with #F_PREV2_combination #F_NEXT_. #F_POS_NNS
+. #F_PREV_arthritis #F_PREV2_with #F_POS_.
+
+Research #F_PREV2_loci #F_NEXT_into #F_POS_NN
+into #F_PREV_Research #F_NEXT_the #F_POS_IN
+the #F_PREV_into #F_PREV2_Research #F_NEXT_pathogenesis #F_POS_DT
+pathogenesis #F_PREV_the #F_PREV2_into #F_NEXT_of #F_POS_NN
+of #F_PREV_pathogenesis #F_PREV2_the #F_NEXT_Behet #F_POS_IN
+Behet #F_PREV_of #F_PREV2_pathogenesis #F_NEXT_' #F_POS_NNP
+' #F_PREV_Behet #F_PREV2_of #F_NEXT_s #F_POS_POS
+s #F_PREV_' #F_PREV2_Behet #F_NEXT_syndrome #F_POS_NNS
+syndrome #F_PREV_s #F_PREV2_' #F_NEXT_has #F_POS_VBP
+has #F_PREV_syndrome #F_PREV2_s #F_NEXT_shown #F_POS_VBZ
+shown #F_PREV_has #F_PREV2_syndrome #F_NEXT_that #F_POS_VBN
+that #F_PREV_shown #F_PREV2_has #F_NEXT_the #F_POS_IN
+the #F_PREV_that #F_PREV2_shown #F_NEXT_most #F_POS_DT
+most #F_PREV_the #F_PREV2_that #F_NEXT_consistent #F_POS_RBS
+consistent #F_PREV_most #F_PREV2_the #F_NEXT_genetic #F_POS_JJ
+genetic #F_PREV_consistent #F_PREV2_most #F_NEXT_marker #F_POS_JJ
+marker #F_PREV_genetic #F_PREV2_consistent #F_NEXT_of #F_POS_NN
+of #F_PREV_marker #F_PREV2_genetic #F_NEXT_Behet #F_POS_IN
+Behet #F_PREV_of #F_PREV2_marker #F_NEXT_' #F_POS_NNP
+' #F_PREV_Behet #F_PREV2_of #F_NEXT_s #F_POS_POS
+s #F_PREV_' #F_PREV2_Behet #F_NEXT_syndrome #F_POS_NNS
+syndrome #F_PREV_s #F_PREV2_' #F_NEXT_is #F_POS_VBP
+is #F_PREV_syndrome #F_PREV2_s #F_NEXT_HLA-B51 #F_POS_VBZ
+HLA-B51 #F_PREV_is #F_PREV2_syndrome #F_NEXT_; #F_POS_-NONE-
+; #F_PREV_HLA-B51 #F_PREV2_is #F_NEXT_however #F_POS_:
+however #F_PREV_; #F_PREV2_HLA-B51 #F_NEXT_, #F_POS_RB
+, #F_PREV_however #F_PREV2_; #F_NEXT_the #F_POS_,
+the #F_PREV_, #F_PREV2_however #F_NEXT_genetic #F_POS_DT
+genetic #F_PREV_the #F_PREV2_, #F_NEXT_association #F_POS_JJ
+association #F_PREV_genetic #F_PREV2_the #F_NEXT_of #F_POS_NN
+of #F_PREV_association #F_PREV2_genetic #F_NEXT_this #F_POS_IN
+this #F_PREV_of #F_PREV2_association #F_NEXT_true #F_POS_DT
+true #F_PREV_this #F_PREV2_of #F_NEXT_- #F_POS_JJ
+- #F_PREV_true #F_PREV2_this #F_NEXT_to #F_POS_:
+to #F_PREV_- #F_PREV2_true #F_NEXT_- #F_POS_TO
+- #F_PREV_to #F_PREV2_- #F_NEXT_form #F_POS_:
+form #F_PREV_- #F_PREV2_to #F_NEXT_' #F_POS_NN
+' #F_PREV_form #F_PREV2_- #F_NEXT_complex #F_POS_''
+complex #F_PREV_' #F_PREV2_form #F_NEXT_' #F_POS_NN
+' #F_PREV_complex #F_PREV2_' #F_NEXT_disorder #F_POS_''
+disorder #F_PREV_' #F_PREV2_complex #F_NEXT_with #F_POS_NN
+with #F_PREV_disorder #F_PREV2_' #F_NEXT_HLA-B51 #F_POS_IN
+HLA-B51 #F_PREV_with #F_PREV2_disorder #F_NEXT_is #F_POS_-NONE-
+is #F_PREV_HLA-B51 #F_PREV2_with #F_NEXT_only #F_POS_VBZ
+only #F_PREV_is #F_PREV2_HLA-B51 #F_NEXT_20 #F_POS_RB
+20 #F_PREV_only #F_PREV2_is #F_NEXT_% #F_POS_CD
+% #F_PREV_20 #F_PREV2_only #F_NEXT_, #F_POS_NN
+, #F_PREV_% #F_PREV2_20 #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_% #F_NEXT_a #F_POS_CC
+a #F_PREV_and #F_PREV2_, #F_NEXT_whole #F_POS_DT
+whole #F_PREV_a #F_PREV2_and #F_NEXT_- #F_POS_JJ
+- #F_PREV_whole #F_PREV2_a #F_NEXT_genome #F_POS_:
+genome #F_PREV_- #F_PREV2_whole #F_NEXT_study #F_POS_NN
+study #F_PREV_genome #F_PREV2_- #F_NEXT_showed #F_POS_NN
+showed #F_PREV_study #F_PREV2_genome #F_NEXT_associations #F_POS_VBD
+associations #F_PREV_showed #F_PREV2_study #F_NEXT_with #F_POS_NNS
+with #F_PREV_associations #F_PREV2_showed #F_NEXT_16 #F_POS_IN
+16 #F_PREV_with #F_PREV2_associations #F_NEXT_different #F_POS_CD
+different #F_PREV_16 #F_PREV2_with #F_NEXT_loci #F_POS_JJ
+loci #F_PREV_different #F_PREV2_16 #F_NEXT_. #F_POS_NN
+. #F_PREV_loci #F_PREV2_different #F_POS_.
+
+Since #F_PREV2_failure #F_NEXT_the #F_POS_IN
+the #F_PREV_Since #F_NEXT_1980s #F_POS_DT
+1980s #F_PREV_the #F_PREV2_Since #F_NEXT_there #F_POS_CD
+there #F_PREV_1980s #F_PREV2_the #F_NEXT_has #F_POS_EX
+has #F_PREV_there #F_PREV2_1980s #F_NEXT_been #F_POS_VBZ
+been #F_PREV_has #F_PREV2_there #F_NEXT_a #F_POS_VBN
+a #F_PREV_been #F_PREV2_has #F_NEXT_marked #F_POS_DT
+marked #F_PREV_a #F_PREV2_been #F_NEXT_increase #F_POS_VBN
+increase #F_PREV_marked #F_PREV2_a #F_NEXT_in #F_POS_NN
+in #F_PREV_increase #F_PREV2_marked #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_increase #F_NEXT_recognition #F_POS_DT
+recognition #F_PREV_the #F_PREV2_in #F_NEXT_and #F_POS_NN
+and #F_PREV_recognition #F_PREV2_the #F_NEXT_reporting #F_POS_CC
+reporting #F_PREV_and #F_PREV2_recognition #F_NEXT_of #F_POS_VBG
+of #F_PREV_reporting #F_PREV2_and #F_NEXT_highly #F_POS_IN
+highly #F_PREV_of #F_PREV2_reporting #F_NEXT_invasive #F_POS_RB
+invasive #F_PREV_highly #F_PREV2_of #F_NEXT_group #F_POS_JJ
+group #F_PREV_invasive #F_PREV2_highly #F_NEXT_A #F_POS_NN
+A #F_PREV_group #F_PREV2_invasive #F_NEXT_streptococcal #F_POS_DT
+streptococcal #F_PREV_A #F_PREV2_group #F_NEXT_infections #F_POS_JJ
+infections #F_PREV_streptococcal #F_PREV2_A #F_NEXT_with #F_POS_NNS
+with #F_PREV_infections #F_PREV2_streptococcal #F_NEXT_or #F_POS_IN
+or #F_PREV_with #F_PREV2_infections #F_NEXT_without #F_POS_CC
+without #F_PREV_or #F_PREV2_with #F_NEXT_necrotizing #F_POS_IN
+necrotizing #F_PREV_without #F_PREV2_or #F_NEXT_fasciitis #F_POS_NN
+fasciitis #F_PREV_necrotizing #F_PREV2_without #F_NEXT_associated #F_POS_NNS
+associated #F_PREV_fasciitis #F_PREV2_necrotizing #F_NEXT_with #F_POS_VBN
+with #F_PREV_associated #F_PREV2_fasciitis #F_NEXT_shock #F_POS_IN
+shock #F_PREV_with #F_PREV2_associated #F_NEXT_and #F_POS_NN
+and #F_PREV_shock #F_PREV2_with #F_NEXT_organ #F_POS_CC
+organ #F_PREV_and #F_PREV2_shock #F_NEXT_failure #F_POS_VBD
+failure #F_PREV_organ #F_PREV2_and #F_NEXT_. #F_POS_NN
+. #F_PREV_failure #F_PREV2_organ #F_POS_.
+
+Such #F_PREV2_syndrome #F_NEXT_dramatic #F_POS_JJ
+dramatic #F_PREV_Such #F_NEXT_cases #F_POS_JJ
+cases #F_PREV_dramatic #F_PREV2_Such #F_NEXT_have #F_POS_NNS
+have #F_PREV_cases #F_PREV2_dramatic #F_NEXT_been #F_POS_VBP
+been #F_PREV_have #F_PREV2_cases #F_NEXT_defined #F_POS_VBN
+defined #F_PREV_been #F_PREV2_have #F_NEXT_as #F_POS_VBN
+as #F_PREV_defined #F_PREV2_been #F_NEXT_streptococcal #F_POS_IN
+streptococcal #F_PREV_as #F_PREV2_defined #F_NEXT_toxic #F_POS_JJ
+toxic #F_PREV_streptococcal #F_PREV2_as #F_NEXT_- #F_POS_JJ
+- #F_PREV_toxic #F_PREV2_streptococcal #F_NEXT_shock #F_POS_:
+shock #F_PREV_- #F_PREV2_toxic #F_NEXT_syndrome #F_POS_NN
+syndrome #F_PREV_shock #F_PREV2_- #F_NEXT_. #F_POS_NN
+. #F_PREV_syndrome #F_PREV2_shock #F_POS_.
+
+Adherence #F_PREV2_failure #F_NEXT_to #F_POS_NN
+to #F_PREV_Adherence #F_NEXT_medical #F_POS_TO
+medical #F_PREV_to #F_PREV2_Adherence #F_NEXT_regimens #F_POS_JJ
+regimens #F_PREV_medical #F_PREV2_to #F_NEXT_for #F_POS_NNS
+for #F_PREV_regimens #F_PREV2_medical #F_NEXT_children #F_POS_IN
+children #F_PREV_for #F_PREV2_regimens #F_NEXT_and #F_POS_NNS
+and #F_PREV_children #F_PREV2_for #F_NEXT_adolescents #F_POS_CC
+adolescents #F_PREV_and #F_PREV2_children #F_NEXT_with #F_POS_NNS
+with #F_PREV_adolescents #F_PREV2_and #F_NEXT_chronic #F_POS_IN
+chronic #F_PREV_with #F_PREV2_adolescents #F_NEXT_conditions #F_POS_JJ
+conditions #F_PREV_chronic #F_PREV2_with #F_NEXT_is #F_POS_NNS
+is #F_PREV_conditions #F_PREV2_chronic #F_NEXT_generally #F_POS_VBZ
+generally #F_PREV_is #F_PREV2_conditions #F_NEXT_below #F_POS_RB
+below #F_PREV_generally #F_PREV2_is #F_NEXT_50% #F_POS_IN
+50% #F_PREV_below #F_PREV2_generally #F_NEXT_and #F_POS_CD
+and #F_PREV_50% #F_PREV2_below #F_NEXT_is #F_POS_CC
+is #F_PREV_and #F_PREV2_50% #F_NEXT_considered #F_POS_VBZ
+considered #F_PREV_is #F_PREV2_and #F_NEXT_the #F_POS_VBN
+the #F_PREV_considered #F_PREV2_is #F_NEXT_single #F_POS_DT
+single #F_PREV_the #F_PREV2_considered #F_NEXT_, #F_POS_JJ
+, #F_PREV_single #F_PREV2_the #F_NEXT_greatest #F_POS_,
+greatest #F_PREV_, #F_PREV2_single #F_NEXT_cause #F_POS_JJS
+cause #F_PREV_greatest #F_PREV2_, #F_NEXT_of #F_POS_NN
+of #F_PREV_cause #F_PREV2_greatest #F_NEXT_treatment #F_POS_IN
+treatment #F_PREV_of #F_PREV2_cause #F_NEXT_failure #F_POS_NN
+failure #F_PREV_treatment #F_PREV2_of #F_NEXT_. #F_POS_NN
+. #F_PREV_failure #F_PREV2_treatment #F_POS_.
+
+To #F_PREV2_syndrome #F_NEXT_assess #F_POS_TO
+assess #F_PREV_To #F_NEXT_the #F_POS_NN
+the #F_PREV_assess #F_PREV2_To #F_NEXT_efficacy #F_POS_DT
+efficacy #F_PREV_the #F_PREV2_assess #F_NEXT_of #F_POS_NN
+of #F_PREV_efficacy #F_PREV2_the #F_NEXT_ultrasound #F_POS_IN
+ultrasound #F_PREV_of #F_PREV2_efficacy #F_NEXT_treatment #F_POS_NN
+treatment #F_PREV_ultrasound #F_PREV2_of #F_NEXT_for #F_POS_NN
+for #F_PREV_treatment #F_PREV2_ultrasound #F_NEXT_mild #F_POS_IN
+mild #F_PREV_for #F_PREV2_treatment #F_NEXT_to #F_POS_NN
+to #F_PREV_mild #F_PREV2_for #F_NEXT_moderate #F_POS_TO
+moderate #F_PREV_to #F_PREV2_mild #F_NEXT_idiopathic #F_POS_VB
+idiopathic #F_PREV_moderate #F_PREV2_to #F_NEXT_carpal #F_POS_JJ
+carpal #F_PREV_idiopathic #F_PREV2_moderate #F_NEXT_tunnel #F_POS_JJ
+tunnel #F_PREV_carpal #F_PREV2_idiopathic #F_NEXT_syndrome #F_POS_NN
+syndrome #F_PREV_tunnel #F_PREV2_carpal #F_NEXT_. #F_POS_NN
+. #F_PREV_syndrome #F_PREV2_tunnel #F_POS_.
+
+In #F_PREV2_syndrome #F_NEXT_this #F_POS_IN
+this #F_PREV_In #F_NEXT_preliminary #F_POS_DT
+preliminary #F_PREV_this #F_PREV2_In #F_NEXT_study #F_POS_JJ
+study #F_PREV_preliminary #F_PREV2_this #F_NEXT_, #F_POS_NN
+, #F_PREV_study #F_PREV2_preliminary #F_NEXT_a #F_POS_,
+a #F_PREV_, #F_PREV2_study #F_NEXT_yoga #F_POS_DT
+yoga #F_PREV_a #F_PREV2_, #F_NEXT_- #F_POS_NN
+- #F_PREV_yoga #F_PREV2_a #F_NEXT_based #F_POS_:
+based #F_PREV_- #F_PREV2_yoga #F_NEXT_regimen #F_POS_VBN
+regimen #F_PREV_based #F_PREV2_- #F_NEXT_was #F_POS_NNS
+was #F_PREV_regimen #F_PREV2_based #F_NEXT_more #F_POS_VBD
+more #F_PREV_was #F_PREV2_regimen #F_NEXT_effective #F_POS_JJR
+effective #F_PREV_more #F_PREV2_was #F_NEXT_than #F_POS_JJ
+than #F_PREV_effective #F_PREV2_more #F_NEXT_wrist #F_POS_IN
+wrist #F_PREV_than #F_PREV2_effective #F_NEXT_splinting #F_POS_NN
+splinting #F_PREV_wrist #F_PREV2_than #F_NEXT_or #F_POS_NN
+or #F_PREV_splinting #F_PREV2_wrist #F_NEXT_no #F_POS_CC
+no #F_PREV_or #F_PREV2_splinting #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_no #F_PREV2_or #F_NEXT_in #F_POS_NN
+in #F_PREV_treatment #F_PREV2_no #F_NEXT_relieving #F_POS_IN
+relieving #F_PREV_in #F_PREV2_treatment #F_NEXT_some #F_POS_NN
+some #F_PREV_relieving #F_PREV2_in #F_NEXT_symptoms #F_POS_DT
+symptoms #F_PREV_some #F_PREV2_relieving #F_NEXT_and #F_POS_NNS
+and #F_PREV_symptoms #F_PREV2_some #F_NEXT_signs #F_POS_CC
+signs #F_PREV_and #F_PREV2_symptoms #F_NEXT_of #F_POS_NNS
+of #F_PREV_signs #F_PREV2_and #F_NEXT_carpal #F_POS_IN
+carpal #F_PREV_of #F_PREV2_signs #F_NEXT_tunnel #F_POS_JJ
+tunnel #F_PREV_carpal #F_PREV2_of #F_NEXT_syndrome #F_POS_NN
+syndrome #F_PREV_tunnel #F_PREV2_carpal #F_NEXT_. #F_POS_NN
+. #F_PREV_syndrome #F_PREV2_tunnel #F_POS_.
+
+Yoga #F_PREV2_symptoms #F_NEXT_and #F_POS_NNP
+and #F_PREV_Yoga #F_NEXT_relaxation #F_POS_CC
+relaxation #F_PREV_and #F_PREV2_Yoga #F_NEXT_techniques #F_POS_NN
+techniques #F_PREV_relaxation #F_PREV2_and #F_NEXT_have #F_POS_NNS
+have #F_PREV_techniques #F_PREV2_relaxation #F_NEXT_been #F_POS_VBP
+been #F_PREV_have #F_PREV2_techniques #F_NEXT_used #F_POS_VBN
+used #F_PREV_been #F_PREV2_have #F_NEXT_to #F_POS_VBN
+to #F_PREV_used #F_PREV2_been #F_NEXT_help #F_POS_TO
+help #F_PREV_to #F_PREV2_used #F_NEXT_alleviate #F_POS_VB
+alleviate #F_PREV_help #F_PREV2_to #F_NEXT_musculoskeletal #F_POS_JJ
+musculoskeletal #F_PREV_alleviate #F_PREV2_help #F_NEXT_symptoms #F_POS_JJ
+symptoms #F_PREV_musculoskeletal #F_PREV2_alleviate #F_NEXT_. #F_POS_NNS
+. #F_PREV_symptoms #F_PREV2_musculoskeletal #F_POS_.
+
+However #F_PREV2_trial #F_NEXT_, #F_POS_RB
+, #F_PREV_However #F_NEXT_except #F_POS_,
+except #F_PREV_, #F_PREV2_However #F_NEXT_for #F_POS_IN
+for #F_PREV_except #F_PREV2_, #F_NEXT_a #F_POS_IN
+a #F_PREV_for #F_PREV2_except #F_NEXT_previous #F_POS_DT
+previous #F_PREV_a #F_PREV2_for #F_NEXT_study #F_POS_JJ
+study #F_PREV_previous #F_PREV2_a #F_NEXT_on #F_POS_NN
+on #F_PREV_study #F_PREV2_previous #F_NEXT_osteoarthritis #F_POS_IN
+osteoarthritis #F_PREV_on #F_PREV2_study #F_NEXT_of #F_POS_NNS
+of #F_PREV_osteoarthritis #F_PREV2_on #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_osteoarthritis #F_NEXT_hand #F_POS_DT
+hand #F_PREV_the #F_PREV2_of #F_NEXT_, #F_POS_NN
+, #F_PREV_hand #F_PREV2_the #F_NEXT_3 #F_POS_,
+3 #F_PREV_, #F_PREV2_hand #F_NEXT_to #F_POS_CD
+to #F_PREV_3 #F_PREV2_, #F_NEXT_our #F_POS_TO
+our #F_PREV_to #F_PREV2_3 #F_NEXT_knowledge #F_POS_PRP$
+knowledge #F_PREV_our #F_PREV2_to #F_NEXT_, #F_POS_NN
+, #F_PREV_knowledge #F_PREV2_our #F_NEXT_these #F_POS_,
+these #F_PREV_, #F_PREV2_knowledge #F_NEXT_methods #F_POS_DT
+methods #F_PREV_these #F_PREV2_, #F_NEXT_have #F_POS_NNS
+have #F_PREV_methods #F_PREV2_these #F_NEXT_not #F_POS_VBP
+not #F_PREV_have #F_PREV2_methods #F_NEXT_been #F_POS_RB
+been #F_PREV_not #F_PREV2_have #F_NEXT_studied #F_POS_VBN
+studied #F_PREV_been #F_PREV2_not #F_NEXT_in #F_POS_VBN
+in #F_PREV_studied #F_PREV2_been #F_NEXT_a #F_POS_IN
+a #F_PREV_in #F_PREV2_studied #F_NEXT_prospective #F_POS_DT
+prospective #F_PREV_a #F_PREV2_in #F_NEXT_controlled #F_POS_JJ
+controlled #F_PREV_prospective #F_PREV2_a #F_NEXT_trial #F_POS_JJ
+trial #F_PREV_controlled #F_PREV2_prospective #F_NEXT_. #F_POS_NN
+. #F_PREV_trial #F_PREV2_controlled #F_POS_.
+
+The #F_PREV2_Zambia #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_The #F_NEXT_guidelines #F_POS_NN
+guidelines #F_PREV_treatment #F_PREV2_The #F_NEXT_for #F_POS_NNS
+for #F_PREV_guidelines #F_PREV2_treatment #F_NEXT_tuberculosis #F_POS_IN
+tuberculosis #F_PREV_for #F_PREV2_guidelines #F_NEXT_treatment #F_POS_NN
+treatment #F_PREV_tuberculosis #F_PREV2_for #F_NEXT_under #F_POS_NN
+under #F_PREV_treatment #F_PREV2_tuberculosis #F_NEXT_Directly #F_POS_IN
+Directly #F_PREV_under #F_PREV2_treatment #F_NEXT_Observed #F_POS_NNP
+Observed #F_PREV_Directly #F_PREV2_under #F_NEXT_Treatment #F_POS_NNP
+Treatment #F_PREV_Observed #F_PREV2_Directly #F_NEXT_, #F_POS_NNP
+, #F_PREV_Treatment #F_PREV2_Observed #F_NEXT_Short #F_POS_,
+Short #F_PREV_, #F_PREV2_Treatment #F_NEXT_- #F_POS_NNP
+- #F_PREV_Short #F_PREV2_, #F_NEXT_course #F_POS_:
+course #F_PREV_- #F_PREV2_Short #F_NEXT_( #F_POS_NN
+( #F_PREV_course #F_PREV2_- #F_NEXT_DOTS #F_POS_:
+DOTS #F_PREV_( #F_PREV2_course #F_NEXT_) #F_POS_NNS
+) #F_PREV_DOTS #F_PREV2_( #F_NEXT_have #F_POS_VBP
+have #F_PREV_) #F_PREV2_DOTS #F_NEXT_been #F_POS_VBP
+been #F_PREV_have #F_PREV2_) #F_NEXT_a #F_POS_VBN
+a #F_PREV_been #F_PREV2_have #F_NEXT_common #F_POS_DT
+common #F_PREV_a #F_PREV2_been #F_NEXT_strategy #F_POS_JJ
+strategy #F_PREV_common #F_PREV2_a #F_NEXT_for #F_POS_NN
+for #F_PREV_strategy #F_PREV2_common #F_NEXT_TB #F_POS_IN
+TB #F_PREV_for #F_PREV2_strategy #F_NEXT_treatment #F_POS_NNP
+treatment #F_PREV_TB #F_PREV2_for #F_NEXT_in #F_POS_NN
+in #F_PREV_treatment #F_PREV2_TB #F_NEXT_Zambia #F_POS_IN
+Zambia #F_PREV_in #F_PREV2_treatment #F_NEXT_. #F_POS_NNP
+. #F_PREV_Zambia #F_PREV2_in #F_POS_.
+
+Tuberculosis #F_PREV2_Zambia #F_NEXT_is #F_POS_NNP
+is #F_PREV_Tuberculosis #F_NEXT_one #F_POS_VBZ
+one #F_PREV_is #F_PREV2_Tuberculosis #F_NEXT_of #F_POS_CD
+of #F_PREV_one #F_PREV2_is #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_one #F_NEXT_major #F_POS_DT
+major #F_PREV_the #F_PREV2_of #F_NEXT_public #F_POS_JJ
+public #F_PREV_major #F_PREV2_the #F_NEXT_health #F_POS_JJ
+health #F_PREV_public #F_PREV2_major #F_NEXT_risk #F_POS_NN
+risk #F_PREV_health #F_PREV2_public #F_NEXT_factors #F_POS_NN
+factors #F_PREV_risk #F_PREV2_health #F_NEXT_of #F_POS_NNS
+of #F_PREV_factors #F_PREV2_risk #F_NEXT_high #F_POS_IN
+high #F_PREV_of #F_PREV2_factors #F_NEXT_mortality #F_POS_JJ
+mortality #F_PREV_high #F_PREV2_of #F_NEXT_among #F_POS_NN
+among #F_PREV_mortality #F_PREV2_high #F_NEXT_patients #F_POS_IN
+patients #F_PREV_among #F_PREV2_mortality #F_NEXT_in #F_POS_NNS
+in #F_PREV_patients #F_PREV2_among #F_NEXT_Zambia #F_POS_IN
+Zambia #F_PREV_in #F_PREV2_patients #F_NEXT_. #F_POS_NNP
+. #F_PREV_Zambia #F_PREV2_in #F_POS_.
+
+The #F_PREV2_conditions #F_NEXT_prevalence #F_POS_DT
+prevalence #F_PREV_The #F_NEXT_of #F_POS_NN
+of #F_PREV_prevalence #F_PREV2_The #F_NEXT_tuberculosis #F_POS_IN
+tuberculosis #F_PREV_of #F_PREV2_prevalence #F_NEXT_among #F_POS_NN
+among #F_PREV_tuberculosis #F_PREV2_of #F_NEXT_adults #F_POS_IN
+adults #F_PREV_among #F_PREV2_tuberculosis #F_NEXT_has #F_POS_NNS
+has #F_PREV_adults #F_PREV2_among #F_NEXT_more #F_POS_VBZ
+more #F_PREV_has #F_PREV2_adults #F_NEXT_than #F_POS_JJR
+than #F_PREV_more #F_PREV2_has #F_NEXT_doubled #F_POS_IN
+doubled #F_PREV_than #F_PREV2_more #F_NEXT_since #F_POS_VBN
+since #F_PREV_doubled #F_PREV2_than #F_NEXT_the #F_POS_IN
+the #F_PREV_since #F_PREV2_doubled #F_NEXT_onset #F_POS_DT
+onset #F_PREV_the #F_PREV2_since #F_NEXT_of #F_POS_NN
+of #F_PREV_onset #F_PREV2_the #F_NEXT_AIDS #F_POS_IN
+AIDS #F_PREV_of #F_PREV2_onset #F_NEXT_epidemic #F_POS_NNP
+epidemic #F_PREV_AIDS #F_PREV2_of #F_NEXT_in #F_POS_JJ
+in #F_PREV_epidemic #F_PREV2_AIDS #F_NEXT_Zambia #F_POS_IN
+Zambia #F_PREV_in #F_PREV2_epidemic #F_NEXT_[ #F_POS_NNP
+[ #F_PREV_Zambia #F_PREV2_in #F_NEXT_1 #F_POS_NNP
+1 #F_PREV_[ #F_PREV2_Zambia #F_NEXT_] #F_POS_CD
+] #F_PREV_1 #F_PREV2_[ #F_NEXT_, #F_POS_CD
+, #F_PREV_] #F_PREV2_1 #F_NEXT_with #F_POS_,
+with #F_PREV_, #F_PREV2_] #F_NEXT_most #F_POS_IN
+most #F_PREV_with #F_PREV2_, #F_NEXT_of #F_POS_JJS
+of #F_PREV_most #F_PREV2_with #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_most #F_NEXT_cases #F_POS_DT
+cases #F_PREV_the #F_PREV2_of #F_NEXT_often #F_POS_NNS
+often #F_PREV_cases #F_PREV2_the #F_NEXT_related #F_POS_RB
+related #F_PREV_often #F_PREV2_cases #F_NEXT_to #F_POS_VBN
+to #F_PREV_related #F_PREV2_often #F_NEXT_HIV #F_POS_TO
+HIV #F_PREV_to #F_PREV2_related #F_NEXT_/ #F_POS_NNP
+/ #F_PREV_HIV #F_PREV2_to #F_NEXT_AIDS #F_POS_NNP
+AIDS #F_PREV_/ #F_PREV2_HIV #F_NEXT_conditions #F_POS_NNP
+conditions #F_PREV_AIDS #F_PREV2_/ #F_NEXT_. #F_POS_NNS
+. #F_PREV_conditions #F_PREV2_AIDS #F_POS_.
+
+Studies #F_PREV2_regime #F_NEXT_[ #F_POS_NNS
+[ #F_PREV_Studies #F_NEXT_13 #F_POS_VBP
+13 #F_PREV_[ #F_PREV2_Studies #F_NEXT_] #F_POS_CD
+] #F_PREV_13 #F_PREV2_[ #F_NEXT_have #F_POS_CD
+have #F_PREV_] #F_PREV2_13 #F_NEXT_shown #F_POS_VBP
+shown #F_PREV_have #F_PREV2_] #F_NEXT_that #F_POS_VBN
+that #F_PREV_shown #F_PREV2_have #F_NEXT_stigmatization #F_POS_IN
+stigmatization #F_PREV_that #F_PREV2_shown #F_NEXT_creates #F_POS_NN
+creates #F_PREV_stigmatization #F_PREV2_that #F_NEXT_a #F_POS_VBZ
+a #F_PREV_creates #F_PREV2_stigmatization #F_NEXT_lot #F_POS_DT
+lot #F_PREV_a #F_PREV2_creates #F_NEXT_of #F_POS_NN
+of #F_PREV_lot #F_PREV2_a #F_NEXT_self #F_POS_IN
+self #F_PREV_of #F_PREV2_lot #F_NEXT_- #F_POS_NN
+- #F_PREV_self #F_PREV2_of #F_NEXT_denial #F_POS_:
+denial #F_PREV_- #F_PREV2_self #F_NEXT_among #F_POS_JJ
+among #F_PREV_denial #F_PREV2_- #F_NEXT_those #F_POS_IN
+those #F_PREV_among #F_PREV2_denial #F_NEXT_with #F_POS_DT
+with #F_PREV_those #F_PREV2_among #F_NEXT_diseases #F_POS_IN
+diseases #F_PREV_with #F_PREV2_those #F_NEXT_like #F_POS_NNS
+like #F_PREV_diseases #F_PREV2_with #F_NEXT_Tuberculosis #F_POS_IN
+Tuberculosis #F_PREV_like #F_PREV2_diseases #F_NEXT_and #F_POS_NNP
+and #F_PREV_Tuberculosis #F_PREV2_like #F_NEXT_Sexually #F_POS_CC
+Sexually #F_PREV_and #F_PREV2_Tuberculosis #F_NEXT_Transmitted #F_POS_NNP
+Transmitted #F_PREV_Sexually #F_PREV2_and #F_NEXT_Infections #F_POS_NNP
+Infections #F_PREV_Transmitted #F_PREV2_Sexually #F_NEXT_( #F_POS_NNP
+( #F_PREV_Infections #F_PREV2_Transmitted #F_NEXT_STIs #F_POS_NNP
+STIs #F_PREV_( #F_PREV2_Infections #F_NEXT_) #F_POS_NNP
+) #F_PREV_STIs #F_PREV2_( #F_NEXT_; #F_POS_NNP
+; #F_PREV_) #F_PREV2_STIs #F_NEXT_hence #F_POS_:
+hence #F_PREV_; #F_PREV2_) #F_NEXT_most #F_POS_NN
+most #F_PREV_hence #F_PREV2_; #F_NEXT_of #F_POS_JJS
+of #F_PREV_most #F_PREV2_hence #F_NEXT_them #F_POS_IN
+them #F_PREV_of #F_PREV2_most #F_NEXT_fail #F_POS_PRP
+fail #F_PREV_them #F_PREV2_of #F_NEXT_to #F_POS_VBP
+to #F_PREV_fail #F_PREV2_them #F_NEXT_comply #F_POS_TO
+comply #F_PREV_to #F_PREV2_fail #F_NEXT_with #F_POS_RB
+with #F_PREV_comply #F_PREV2_to #F_NEXT_the #F_POS_IN
+the #F_PREV_with #F_PREV2_comply #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_the #F_PREV2_with #F_NEXT_regime #F_POS_NN
+regime #F_PREV_treatment #F_PREV2_the #F_NEXT_. #F_POS_NN
+. #F_PREV_regime #F_PREV2_treatment #F_POS_.
+
+The #F_PREV2_management #F_NEXT_prevalence #F_POS_DT
+prevalence #F_PREV_The #F_NEXT_of #F_POS_NN
+of #F_PREV_prevalence #F_PREV2_The #F_NEXT_mitral #F_POS_IN
+mitral #F_PREV_of #F_PREV2_prevalence #F_NEXT_valve #F_POS_JJ
+valve #F_PREV_mitral #F_PREV2_of #F_NEXT_prolapse #F_POS_NN
+prolapse #F_PREV_valve #F_PREV2_mitral #F_NEXT_in #F_POS_NN
+in #F_PREV_prolapse #F_PREV2_valve #F_NEXT_patients #F_POS_IN
+patients #F_PREV_in #F_PREV2_prolapse #F_NEXT_with #F_POS_NNS
+with #F_PREV_patients #F_PREV2_in #F_NEXT_Down #F_POS_IN
+Down #F_PREV_with #F_PREV2_patients #F_NEXT_syndrome #F_POS_NNP
+syndrome #F_PREV_Down #F_PREV2_with #F_NEXT_: #F_POS_NN
+: #F_PREV_syndrome #F_PREV2_Down #F_NEXT_implications #F_POS_:
+implications #F_PREV_: #F_PREV2_syndrome #F_NEXT_for #F_POS_NNS
+for #F_PREV_implications #F_PREV2_: #F_NEXT_dental #F_POS_IN
+dental #F_PREV_for #F_PREV2_implications #F_NEXT_management #F_POS_JJ
+management #F_PREV_dental #F_PREV2_for #F_NEXT_. #F_POS_NN
+. #F_PREV_management #F_PREV2_dental #F_POS_.
+
+Asthmatic #F_PREV2_. #F_NEXT_patients #F_POS_JJ
+patients #F_PREV_Asthmatic #F_NEXT_from #F_POS_NNS
+from #F_PREV_patients #F_PREV2_Asthmatic #F_NEXT_western #F_POS_IN
+western #F_PREV_from #F_PREV2_patients #F_NEXT_Canada #F_POS_JJ
+Canada #F_PREV_western #F_PREV2_from #F_NEXT_and #F_POS_NNP
+and #F_PREV_Canada #F_PREV2_western #F_NEXT_the #F_POS_CC
+the #F_PREV_and #F_PREV2_Canada #F_NEXT_United #F_POS_DT
+United #F_PREV_the #F_PREV2_and #F_NEXT_States #F_POS_NNP
+States #F_PREV_United #F_PREV2_the #F_NEXT_have #F_POS_NNPS
+have #F_PREV_States #F_PREV2_United #F_NEXT_reported #F_POS_VBP
+reported #F_PREV_have #F_PREV2_States #F_NEXT_that #F_POS_VBN
+that #F_PREV_reported #F_PREV2_have #F_NEXT_after #F_POS_IN
+after #F_PREV_that #F_PREV2_reported #F_NEXT_visits #F_POS_IN
+visits #F_PREV_after #F_PREV2_that #F_NEXT_to #F_POS_NNS
+to #F_PREV_visits #F_PREV2_after #F_NEXT_an #F_POS_TO
+an #F_PREV_to #F_PREV2_visits #F_NEXT_asthma #F_POS_DT
+asthma #F_PREV_an #F_PREV2_to #F_NEXT_clinic #F_POS_NN
+clinic #F_PREV_asthma #F_PREV2_an #F_NEXT_in #F_POS_NN
+in #F_PREV_clinic #F_PREV2_asthma #F_NEXT_Mexicali #F_POS_IN
+Mexicali #F_PREV_in #F_PREV2_clinic #F_NEXT_, #F_POS_NNP
+, #F_PREV_Mexicali #F_PREV2_in #F_NEXT_Mexico #F_POS_,
+Mexico #F_PREV_, #F_PREV2_Mexicali #F_NEXT_, #F_POS_NNP
+, #F_PREV_Mexico #F_PREV2_, #F_NEXT_they #F_POS_,
+they #F_PREV_, #F_PREV2_Mexico #F_NEXT_return #F_POS_PRP
+return #F_PREV_they #F_PREV2_, #F_NEXT_home #F_POS_VBP
+home #F_PREV_return #F_PREV2_they #F_NEXT_substantially #F_POS_NN
+substantially #F_PREV_home #F_PREV2_return #F_NEXT_improved #F_POS_RB
+improved #F_PREV_substantially #F_PREV2_home #F_NEXT_or #F_POS_VBN
+or #F_PREV_improved #F_PREV2_substantially #F_NEXT_cured #F_POS_CC
+cured #F_PREV_or #F_PREV2_improved #F_NEXT_having #F_POS_VBN
+having #F_PREV_cured #F_PREV2_or #F_NEXT_received #F_POS_VBG
+received #F_PREV_having #F_PREV2_cured #F_NEXT_" #F_POS_VBN
+" #F_PREV_received #F_PREV2_having #F_NEXT_a #F_POS_-NONE-
+a #F_PREV_" #F_PREV2_received #F_NEXT_bronchodilator #F_POS_DT
+bronchodilator #F_PREV_a #F_PREV2_" #F_NEXT_medication #F_POS_NN
+medication #F_PREV_bronchodilator #F_PREV2_a #F_NEXT_unavailable #F_POS_NN
+unavailable #F_PREV_medication #F_PREV2_bronchodilator #F_NEXT_in #F_POS_JJ
+in #F_PREV_unavailable #F_PREV2_medication #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_unavailable #F_NEXT_United #F_POS_DT
+United #F_PREV_the #F_PREV2_in #F_NEXT_States #F_POS_NNP
+States #F_PREV_United #F_PREV2_the #F_NEXT_or #F_POS_NNPS
+or #F_PREV_States #F_PREV2_United #F_NEXT_Canada #F_POS_CC
+Canada #F_PREV_or #F_PREV2_States #F_NEXT_because #F_POS_NNP
+because #F_PREV_Canada #F_PREV2_or #F_NEXT_of #F_POS_IN
+of #F_PREV_because #F_PREV2_Canada #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_because #F_NEXT_big #F_POS_DT
+big #F_PREV_the #F_PREV2_of #F_NEXT_drug #F_POS_JJ
+drug #F_PREV_big #F_PREV2_the #F_NEXT_companies #F_POS_NN
+companies #F_PREV_drug #F_PREV2_big #F_NEXT_. #F_POS_NNS
+. #F_PREV_companies #F_PREV2_drug #F_NEXT_" #F_POS_.
+" #F_PREV_. #F_PREV2_companies #F_POS_:
+
+It #F_PREV2_implications #F_NEXT_is #F_POS_PRP
+is #F_PREV_It #F_NEXT_argued #F_POS_VBZ
+argued #F_PREV_is #F_PREV2_It #F_NEXT_that #F_POS_VBN
+that #F_PREV_argued #F_PREV2_is #F_NEXT_the #F_POS_IN
+the #F_PREV_that #F_PREV2_argued #F_NEXT_proportion #F_POS_DT
+proportion #F_PREV_the #F_PREV2_that #F_NEXT_of #F_POS_NN
+of #F_PREV_proportion #F_PREV2_the #F_NEXT_fear #F_POS_IN
+fear #F_PREV_of #F_PREV2_proportion #F_NEXT_, #F_POS_NN
+, #F_PREV_fear #F_PREV2_of #F_NEXT_conviction #F_POS_,
+conviction #F_PREV_, #F_PREV2_fear #F_NEXT_, #F_POS_NN
+, #F_PREV_conviction #F_PREV2_, #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_conviction #F_NEXT_bodily #F_POS_CC
+bodily #F_PREV_and #F_PREV2_, #F_NEXT_preoccupation #F_POS_RB
+preoccupation #F_PREV_bodily #F_PREV2_and #F_NEXT_in #F_POS_NN
+in #F_PREV_preoccupation #F_PREV2_bodily #F_NEXT_a #F_POS_IN
+a #F_PREV_in #F_PREV2_preoccupation #F_NEXT_given #F_POS_DT
+given #F_PREV_a #F_PREV2_in #F_NEXT_hypochondriacal #F_POS_VBN
+hypochondriacal #F_PREV_given #F_PREV2_a #F_NEXT_patient #F_POS_JJ
+patient #F_PREV_hypochondriacal #F_PREV2_given #F_NEXT_may #F_POS_NN
+may #F_PREV_patient #F_PREV2_hypochondriacal #F_NEXT_have #F_POS_MD
+have #F_PREV_may #F_PREV2_patient #F_NEXT_important #F_POS_VB
+important #F_PREV_have #F_PREV2_may #F_NEXT_treatment #F_POS_JJ
+treatment #F_PREV_important #F_PREV2_have #F_NEXT_implications #F_POS_NN
+implications #F_PREV_treatment #F_PREV2_important #F_NEXT_. #F_POS_NNS
+. #F_PREV_implications #F_PREV2_treatment #F_POS_.
+
+Studies #F_PREV2_therapy #F_NEXT_are #F_POS_NNS
+are #F_PREV_Studies #F_NEXT_reviewed #F_POS_VBP
+reviewed #F_PREV_are #F_PREV2_Studies #F_NEXT_that #F_POS_VBN
+that #F_PREV_reviewed #F_PREV2_are #F_NEXT_have #F_POS_IN
+have #F_PREV_that #F_PREV2_reviewed #F_NEXT_addressed #F_POS_VBP
+addressed #F_PREV_have #F_PREV2_that #F_NEXT_psychodynamic #F_POS_VBN
+psychodynamic #F_PREV_addressed #F_PREV2_have #F_NEXT_and #F_POS_JJ
+and #F_PREV_psychodynamic #F_PREV2_addressed #F_NEXT_supportive #F_POS_CC
+supportive #F_PREV_and #F_PREV2_psychodynamic #F_NEXT_psychotherapy #F_POS_JJ
+psychotherapy #F_PREV_supportive #F_PREV2_and #F_NEXT_, #F_POS_NN
+, #F_PREV_psychotherapy #F_PREV2_supportive #F_NEXT_cognitive #F_POS_,
+cognitive #F_PREV_, #F_PREV2_psychotherapy #F_NEXT_- #F_POS_JJ
+- #F_PREV_cognitive #F_PREV2_, #F_NEXT_behavioral #F_POS_:
+behavioral #F_PREV_- #F_PREV2_cognitive #F_NEXT_therapy #F_POS_JJ
+therapy #F_PREV_behavioral #F_PREV2_- #F_NEXT_, #F_POS_NN
+, #F_PREV_therapy #F_PREV2_behavioral #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_therapy #F_NEXT_pharmacologic #F_POS_CC
+pharmacologic #F_PREV_and #F_PREV2_, #F_NEXT_therapy #F_POS_JJ
+therapy #F_PREV_pharmacologic #F_PREV2_and #F_NEXT_. #F_POS_NN
+. #F_PREV_therapy #F_PREV2_pharmacologic #F_POS_.
+
+As #F_PREV2_hypochondriasis #F_NEXT_its #F_POS_IN
+its #F_PREV_As #F_NEXT_name #F_POS_PRP$
+name #F_PREV_its #F_PREV2_As #F_NEXT_suggests #F_POS_NN
+suggests #F_PREV_name #F_PREV2_its #F_NEXT_, #F_POS_VBZ
+, #F_PREV_suggests #F_PREV2_name #F_NEXT_this #F_POS_,
+this #F_PREV_, #F_PREV2_suggests #F_NEXT_book #F_POS_DT
+book #F_PREV_this #F_PREV2_, #F_NEXT_is #F_POS_NN
+is #F_PREV_book #F_PREV2_this #F_NEXT_about #F_POS_VBZ
+about #F_PREV_is #F_PREV2_book #F_NEXT_psychological #F_POS_IN
+psychological #F_PREV_about #F_PREV2_is #F_NEXT_treatment #F_POS_JJ
+treatment #F_PREV_psychological #F_PREV2_about #F_NEXT_, #F_POS_NN
+, #F_PREV_treatment #F_PREV2_psychological #F_NEXT_mainly #F_POS_,
+mainly #F_PREV_, #F_PREV2_treatment #F_NEXT_cognitive #F_POS_RB
+cognitive #F_PREV_mainly #F_PREV2_, #F_NEXT_behavioural #F_POS_JJ
+behavioural #F_PREV_cognitive #F_PREV2_mainly #F_NEXT_therapy #F_POS_JJ
+therapy #F_PREV_behavioural #F_PREV2_cognitive #F_NEXT_( #F_POS_NN
+( #F_PREV_therapy #F_PREV2_behavioural #F_NEXT_CBT #F_POS_:
+CBT #F_PREV_( #F_PREV2_therapy #F_NEXT_) #F_POS_NNP
+) #F_PREV_CBT #F_PREV2_( #F_NEXT_, #F_POS_:
+, #F_PREV_) #F_PREV2_CBT #F_NEXT_for #F_POS_,
+for #F_PREV_, #F_PREV2_) #F_NEXT_hypochondriasis #F_POS_IN
+hypochondriasis #F_PREV_for #F_PREV2_, #F_NEXT_. #F_POS_NN
+. #F_PREV_hypochondriasis #F_PREV2_for #F_POS_.
+
+The #F_PREV2_Clinic #F_NEXT_two #F_POS_DT
+two #F_PREV_The #F_NEXT_authors #F_POS_CD
+authors #F_PREV_two #F_PREV2_The #F_NEXT_are #F_POS_NNS
+are #F_PREV_authors #F_PREV2_two #F_NEXT_experienced #F_POS_VBP
+experienced #F_PREV_are #F_PREV2_authors #F_NEXT_clinical #F_POS_VBN
+clinical #F_PREV_experienced #F_PREV2_are #F_NEXT_psychologists #F_POS_JJ
+psychologists #F_PREV_clinical #F_PREV2_experienced #F_NEXT_working #F_POS_NNS
+working #F_PREV_psychologists #F_PREV2_clinical #F_NEXT_at #F_POS_VBG
+at #F_PREV_working #F_PREV2_psychologists #F_NEXT_the #F_POS_IN
+the #F_PREV_at #F_PREV2_working #F_NEXT_Mayo #F_POS_DT
+Mayo #F_PREV_the #F_PREV2_at #F_NEXT_Clinic #F_POS_NNP
+Clinic #F_PREV_Mayo #F_PREV2_the #F_NEXT_. #F_POS_NNP
+. #F_PREV_Clinic #F_PREV2_Mayo #F_POS_.
+
+The #F_PREV2_infections #F_NEXT_emergence #F_POS_DT
+emergence #F_PREV_The #F_NEXT_and #F_POS_NN
+and #F_PREV_emergence #F_PREV2_The #F_NEXT_spread #F_POS_CC
+spread #F_PREV_and #F_PREV2_emergence #F_NEXT_of #F_POS_VB
+of #F_PREV_spread #F_PREV2_and #F_NEXT_antibiotic #F_POS_IN
+antibiotic #F_PREV_of #F_PREV2_spread #F_NEXT_- #F_POS_JJ
+- #F_PREV_antibiotic #F_PREV2_of #F_NEXT_resistant #F_POS_:
+resistant #F_PREV_- #F_PREV2_antibiotic #F_NEXT_Streptococcus #F_POS_JJ
+Streptococcus #F_PREV_resistant #F_PREV2_- #F_NEXT_pneumoniae #F_POS_NNP
+pneumoniae #F_PREV_Streptococcus #F_PREV2_resistant #F_NEXT_in #F_POS_NN
+in #F_PREV_pneumoniae #F_PREV2_Streptococcus #F_NEXT_US #F_POS_IN
+US #F_PREV_in #F_PREV2_pneumoniae #F_NEXT_communities #F_POS_NNP
+communities #F_PREV_US #F_PREV2_in #F_NEXT_is #F_POS_NNS
+is #F_PREV_communities #F_PREV2_US #F_NEXT_due #F_POS_VBZ
+due #F_PREV_is #F_PREV2_communities #F_NEXT_, #F_POS_JJ
+, #F_PREV_due #F_PREV2_is #F_NEXT_in #F_POS_,
+in #F_PREV_, #F_PREV2_due #F_NEXT_part #F_POS_IN
+part #F_PREV_in #F_PREV2_, #F_NEXT_, #F_POS_NN
+, #F_PREV_part #F_PREV2_in #F_NEXT_to #F_POS_,
+to #F_PREV_, #F_PREV2_part #F_NEXT_the #F_POS_TO
+the #F_PREV_to #F_PREV2_, #F_NEXT_excessive #F_POS_DT
+excessive #F_PREV_the #F_PREV2_to #F_NEXT_use #F_POS_JJ
+use #F_PREV_excessive #F_PREV2_the #F_NEXT_of #F_POS_NN
+of #F_PREV_use #F_PREV2_excessive #F_NEXT_antibiotics #F_POS_IN
+antibiotics #F_PREV_of #F_PREV2_use #F_NEXT_for #F_POS_NNS
+for #F_PREV_antibiotics #F_PREV2_of #F_NEXT_acute #F_POS_IN
+acute #F_PREV_for #F_PREV2_antibiotics #F_NEXT_respiratory #F_POS_JJ
+respiratory #F_PREV_acute #F_PREV2_for #F_NEXT_tract #F_POS_NN
+tract #F_PREV_respiratory #F_PREV2_acute #F_NEXT_infections #F_POS_NN
+infections #F_PREV_tract #F_PREV2_respiratory #F_NEXT_. #F_POS_NNS
+. #F_PREV_infections #F_PREV2_tract #F_POS_.
+
+To #F_PREV2_adults #F_NEXT_decrease #F_POS_TO
+decrease #F_PREV_To #F_NEXT_total #F_POS_VB
+total #F_PREV_decrease #F_PREV2_To #F_NEXT_antibiotic #F_POS_JJ
+antibiotic #F_PREV_total #F_PREV2_decrease #F_NEXT_use #F_POS_JJ
+use #F_PREV_antibiotic #F_PREV2_total #F_NEXT_for #F_POS_NN
+for #F_PREV_use #F_PREV2_antibiotic #F_NEXT_uncomplicated #F_POS_IN
+uncomplicated #F_PREV_for #F_PREV2_use #F_NEXT_acute #F_POS_VBN
+acute #F_PREV_uncomplicated #F_PREV2_for #F_NEXT_bronchitis #F_POS_JJ
+bronchitis #F_PREV_acute #F_PREV2_uncomplicated #F_NEXT_in #F_POS_NNS
+in #F_PREV_bronchitis #F_PREV2_acute #F_NEXT_adults #F_POS_IN
+adults #F_PREV_in #F_PREV2_bronchitis #F_NEXT_. #F_POS_NNS
+. #F_PREV_adults #F_PREV2_in #F_POS_.
+
+Four #F_PREV2_area #F_NEXT_selected #F_POS_CD
+selected #F_PREV_Four #F_NEXT_primary #F_POS_VBN
+primary #F_PREV_selected #F_PREV2_Four #F_NEXT_care #F_POS_JJ
+care #F_PREV_primary #F_PREV2_selected #F_NEXT_practices #F_POS_NN
+practices #F_PREV_care #F_PREV2_primary #F_NEXT_belonging #F_POS_NNS
+belonging #F_PREV_practices #F_PREV2_care #F_NEXT_to #F_POS_VBG
+to #F_PREV_belonging #F_PREV2_practices #F_NEXT_a #F_POS_TO
+a #F_PREV_to #F_PREV2_belonging #F_NEXT_group #F_POS_DT
+group #F_PREV_a #F_PREV2_to #F_NEXT_- #F_POS_NN
+- #F_PREV_group #F_PREV2_a #F_NEXT_model #F_POS_:
+model #F_PREV_- #F_PREV2_group #F_NEXT_health #F_POS_NN
+health #F_PREV_model #F_PREV2_- #F_NEXT_maintenance #F_POS_NN
+maintenance #F_PREV_health #F_PREV2_model #F_NEXT_organization #F_POS_NN
+organization #F_PREV_maintenance #F_PREV2_health #F_NEXT_in #F_POS_NN
+in #F_PREV_organization #F_PREV2_maintenance #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_organization #F_NEXT_Denver #F_POS_DT
+Denver #F_PREV_the #F_PREV2_in #F_NEXT_, #F_POS_NNP
+, #F_PREV_Denver #F_PREV2_the #F_NEXT_Colo #F_POS_,
+Colo #F_PREV_, #F_PREV2_Denver #F_NEXT_, #F_POS_NNP
+, #F_PREV_Colo #F_PREV2_, #F_NEXT_metropolitan #F_POS_,
+metropolitan #F_PREV_, #F_PREV2_Colo #F_NEXT_area #F_POS_JJ
+area #F_PREV_metropolitan #F_PREV2_, #F_NEXT_. #F_POS_NN
+. #F_PREV_area #F_PREV2_metropolitan #F_POS_.
+
+A #F_PREV2_study #F_NEXT_total #F_POS_DT
+total #F_PREV_A #F_NEXT_of #F_POS_NN
+of #F_PREV_total #F_PREV2_A #F_NEXT_2462 #F_POS_IN
+2462 #F_PREV_of #F_PREV2_total #F_NEXT_adults #F_POS_CD
+adults #F_PREV_2462 #F_PREV2_of #F_NEXT_were #F_POS_NNS
+were #F_PREV_adults #F_PREV2_2462 #F_NEXT_included #F_POS_VBD
+included #F_PREV_were #F_PREV2_adults #F_NEXT_at #F_POS_VBN
+at #F_PREV_included #F_PREV2_were #F_NEXT_baseline #F_POS_IN
+baseline #F_PREV_at #F_PREV2_included #F_NEXT_and #F_POS_NN
+and #F_PREV_baseline #F_PREV2_at #F_NEXT_2027 #F_POS_CC
+2027 #F_PREV_and #F_PREV2_baseline #F_NEXT_adults #F_POS_CD
+adults #F_PREV_2027 #F_PREV2_and #F_NEXT_were #F_POS_NNS
+were #F_PREV_adults #F_PREV2_2027 #F_NEXT_included #F_POS_VBD
+included #F_PREV_were #F_PREV2_adults #F_NEXT_in #F_POS_VBN
+in #F_PREV_included #F_PREV2_were #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_included #F_NEXT_study #F_POS_DT
+study #F_PREV_the #F_PREV2_in #F_NEXT_. #F_POS_NN
+. #F_PREV_study #F_PREV2_the #F_POS_.
+
+Clinicians #F_PREV2_nurses #F_NEXT_included #F_POS_NNS
+included #F_PREV_Clinicians #F_NEXT_56 #F_POS_VBD
+56 #F_PREV_included #F_PREV2_Clinicians #F_NEXT_physicians #F_POS_CD
+physicians #F_PREV_56 #F_PREV2_included #F_NEXT_, #F_POS_NNS
+, #F_PREV_physicians #F_PREV2_56 #F_NEXT_28 #F_POS_,
+28 #F_PREV_, #F_PREV2_physicians #F_NEXT_physician #F_POS_CD
+physician #F_PREV_28 #F_PREV2_, #F_NEXT_assistants #F_POS_JJ
+assistants #F_PREV_physician #F_PREV2_28 #F_NEXT_or #F_POS_NNS
+or #F_PREV_assistants #F_PREV2_physician #F_NEXT_nurse #F_POS_CC
+nurse #F_PREV_or #F_PREV2_assistants #F_NEXT_practitioners #F_POS_VB
+practitioners #F_PREV_nurse #F_PREV2_or #F_NEXT_, #F_POS_NNS
+, #F_PREV_practitioners #F_PREV2_nurse #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_practitioners #F_NEXT_9 #F_POS_CC
+9 #F_PREV_and #F_PREV2_, #F_NEXT_registered #F_POS_CD
+registered #F_PREV_9 #F_PREV2_and #F_NEXT_nurses #F_POS_VBN
+nurses #F_PREV_registered #F_PREV2_9 #F_NEXT_. #F_POS_NNS
+. #F_PREV_nurses #F_PREV2_registered #F_POS_.
+
+Chloromycetin #F_PREV2_activity #F_NEXT_is #F_POS_NNP
+is #F_PREV_Chloromycetin #F_NEXT_a #F_POS_VBZ
+a #F_PREV_is #F_PREV2_Chloromycetin #F_NEXT_crystalline #F_POS_DT
+crystalline #F_PREV_a #F_PREV2_is #F_NEXT_substance #F_POS_NN
+substance #F_PREV_crystalline #F_PREV2_a #F_NEXT_obtained #F_POS_NN
+obtained #F_PREV_substance #F_PREV2_crystalline #F_NEXT_through #F_POS_VBD
+through #F_PREV_obtained #F_PREV2_substance #F_NEXT_processes #F_POS_IN
+processes #F_PREV_through #F_PREV2_obtained #F_NEXT_of #F_POS_NNS
+of #F_PREV_processes #F_PREV2_through #F_NEXT_concentration #F_POS_IN
+concentration #F_PREV_of #F_PREV2_processes #F_NEXT_and #F_POS_NN
+and #F_PREV_concentration #F_PREV2_of #F_NEXT_purification #F_POS_CC
+purification #F_PREV_and #F_PREV2_concentration #F_NEXT_of #F_POS_NN
+of #F_PREV_purification #F_PREV2_and #F_NEXT_cultures #F_POS_IN
+cultures #F_PREV_of #F_PREV2_purification #F_NEXT_in #F_POS_NNS
+in #F_PREV_cultures #F_PREV2_of #F_NEXT_liquid #F_POS_IN
+liquid #F_PREV_in #F_PREV2_cultures #F_NEXT_media #F_POS_NN
+media #F_PREV_liquid #F_PREV2_in #F_NEXT_of #F_POS_NNS
+of #F_PREV_media #F_PREV2_liquid #F_NEXT_a #F_POS_IN
+a #F_PREV_of #F_PREV2_media #F_NEXT_Streptomyces #F_POS_DT
+Streptomyces #F_PREV_a #F_PREV2_of #F_NEXT_sp. #F_POS_NNPS
+sp. #F_PREV_Streptomyces #F_PREV2_a #F_NEXT_originally #F_POS_NNP
+originally #F_PREV_sp. #F_PREV2_Streptomyces #F_NEXT_isolated #F_POS_RB
+isolated #F_PREV_originally #F_PREV2_sp. #F_NEXT_by #F_POS_VBD
+by #F_PREV_isolated #F_PREV2_originally #F_NEXT_Burkholder #F_POS_IN
+Burkholder #F_PREV_by #F_PREV2_isolated #F_NEXT_, #F_POS_NNP
+, #F_PREV_Burkholder #F_PREV2_by #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_Burkholder #F_NEXT_shown #F_POS_CC
+shown #F_PREV_and #F_PREV2_, #F_NEXT_by #F_POS_VB
+by #F_PREV_shown #F_PREV2_and #F_NEXT_him #F_POS_IN
+him #F_PREV_by #F_PREV2_shown #F_NEXT_to #F_POS_PRP
+to #F_PREV_him #F_PREV2_by #F_NEXT_possess #F_POS_TO
+possess #F_PREV_to #F_PREV2_him #F_NEXT_anti #F_POS_VB
+anti #F_PREV_possess #F_PREV2_to #F_NEXT_- #F_POS_NN
+- #F_PREV_anti #F_PREV2_possess #F_NEXT_bacterial #F_POS_:
+bacterial #F_PREV_- #F_PREV2_anti #F_NEXT_activity #F_POS_JJ
+activity #F_PREV_bacterial #F_PREV2_- #F_NEXT_. #F_POS_NN
+. #F_PREV_activity #F_PREV2_bacterial #F_POS_.
+
+The #F_PREV2_patients #F_NEXT_mean #F_POS_DT
+mean #F_PREV_The #F_NEXT_hospital #F_POS_JJ
+hospital #F_PREV_mean #F_PREV2_The #F_NEXT_length #F_POS_NN
+length #F_PREV_hospital #F_PREV2_mean #F_NEXT_of #F_POS_NN
+of #F_PREV_length #F_PREV2_hospital #F_NEXT_stay #F_POS_IN
+stay #F_PREV_of #F_PREV2_length #F_NEXT_was #F_POS_NN
+was #F_PREV_stay #F_PREV2_of #F_NEXT_6.3 #F_POS_VBD
+6.3 #F_PREV_was #F_PREV2_stay #F_NEXT_days #F_POS_CD
+days #F_PREV_6.3 #F_PREV2_was #F_NEXT_with #F_POS_NNS
+with #F_PREV_days #F_PREV2_6.3 #F_NEXT_a #F_POS_IN
+a #F_PREV_with #F_PREV2_days #F_NEXT_mean #F_POS_DT
+mean #F_PREV_a #F_PREV2_with #F_NEXT_cost #F_POS_JJ
+cost #F_PREV_mean #F_PREV2_a #F_NEXT_of #F_POS_NN
+of #F_PREV_cost #F_PREV2_mean #F_NEXT_$ #F_POS_IN
+$ #F_PREV_of #F_PREV2_cost #F_NEXT_5497 #F_POS_$
+5497 #F_PREV_$ #F_PREV2_of #F_NEXT_for #F_POS_CD
+for #F_PREV_5497 #F_PREV2_$ #F_NEXT_patients #F_POS_IN
+patients #F_PREV_for #F_PREV2_5497 #F_NEXT_aged #F_POS_NNS
+aged #F_PREV_patients #F_PREV2_for #F_NEXT_>65 #F_POS_VBD
+>65 #F_PREV_aged #F_PREV2_patients #F_NEXT_years #F_POS_-NONE-
+years #F_PREV_>65 #F_PREV2_aged #F_NEXT_and #F_POS_NNS
+and #F_PREV_years #F_PREV2_>65 #F_NEXT_5.8 #F_POS_CC
+5.8 #F_PREV_and #F_PREV2_years #F_NEXT_days #F_POS_CD
+days #F_PREV_5.8 #F_PREV2_and #F_NEXT_with #F_POS_NNS
+with #F_PREV_days #F_PREV2_5.8 #F_NEXT_a #F_POS_IN
+a #F_PREV_with #F_PREV2_days #F_NEXT_mean #F_POS_DT
+mean #F_PREV_a #F_PREV2_with #F_NEXT_cost #F_POS_JJ
+cost #F_PREV_mean #F_PREV2_a #F_NEXT_of #F_POS_NN
+of #F_PREV_cost #F_PREV2_mean #F_NEXT_$ #F_POS_IN
+$ #F_PREV_of #F_PREV2_cost #F_NEXT_5561 #F_POS_$
+5561 #F_PREV_$ #F_PREV2_of #F_NEXT_for #F_POS_CD
+for #F_PREV_5561 #F_PREV2_$ #F_NEXT_younger #F_POS_IN
+younger #F_PREV_for #F_PREV2_5561 #F_NEXT_patients #F_POS_JJR
+patients #F_PREV_younger #F_PREV2_for #F_NEXT_. #F_POS_NNS
+. #F_PREV_patients #F_PREV2_younger #F_POS_.
+
+We #F_PREV2_system #F_NEXT_conducted #F_POS_PRP
+conducted #F_PREV_We #F_NEXT_a #F_POS_VBD
+a #F_PREV_conducted #F_PREV2_We #F_NEXT_retrospective #F_POS_DT
+retrospective #F_PREV_a #F_PREV2_conducted #F_NEXT_analysis #F_POS_JJ
+analysis #F_PREV_retrospective #F_PREV2_a #F_NEXT_of #F_POS_NN
+of #F_PREV_analysis #F_PREV2_retrospective #F_NEXT_claims #F_POS_IN
+claims #F_PREV_of #F_PREV2_analysis #F_NEXT_for #F_POS_NNS
+for #F_PREV_claims #F_PREV2_of #F_NEXT_patients #F_POS_IN
+patients #F_PREV_for #F_PREV2_claims #F_NEXT_treated #F_POS_NNS
+treated #F_PREV_patients #F_PREV2_for #F_NEXT_for #F_POS_VBN
+for #F_PREV_treated #F_PREV2_patients #F_NEXT_acute #F_POS_IN
+acute #F_PREV_for #F_PREV2_treated #F_NEXT_exacerbations #F_POS_JJ
+exacerbations #F_PREV_acute #F_PREV2_for #F_NEXT_of #F_POS_NNS
+of #F_PREV_exacerbations #F_PREV2_acute #F_NEXT_chronic #F_POS_IN
+chronic #F_PREV_of #F_PREV2_exacerbations #F_NEXT_bronchitis #F_POS_JJ
+bronchitis #F_PREV_chronic #F_PREV2_of #F_NEXT_( #F_POS_NNS
+( #F_PREV_bronchitis #F_PREV2_chronic #F_NEXT_AECB #F_POS_:
+AECB #F_PREV_( #F_PREV2_bronchitis #F_NEXT_) #F_POS_NNP
+) #F_PREV_AECB #F_PREV2_( #F_NEXT_to #F_POS_:
+to #F_PREV_) #F_PREV2_AECB #F_NEXT_assess #F_POS_TO
+assess #F_PREV_to #F_PREV2_) #F_NEXT_the #F_POS_NN
+the #F_PREV_assess #F_PREV2_to #F_NEXT_frequency #F_POS_DT
+frequency #F_PREV_the #F_PREV2_assess #F_NEXT_of #F_POS_NN
+of #F_PREV_frequency #F_PREV2_the #F_NEXT_services #F_POS_IN
+services #F_PREV_of #F_PREV2_frequency #F_NEXT_rendered #F_POS_NNS
+rendered #F_PREV_services #F_PREV2_of #F_NEXT_and #F_POS_VBN
+and #F_PREV_rendered #F_PREV2_services #F_NEXT_the #F_POS_CC
+the #F_PREV_and #F_PREV2_rendered #F_NEXT_costs #F_POS_DT
+costs #F_PREV_the #F_PREV2_and #F_NEXT_to #F_POS_NNS
+to #F_PREV_costs #F_PREV2_the #F_NEXT_the #F_POS_TO
+the #F_PREV_to #F_PREV2_costs #F_NEXT_health #F_POS_DT
+health #F_PREV_the #F_PREV2_to #F_NEXT_care #F_POS_NN
+care #F_PREV_health #F_PREV2_the #F_NEXT_system #F_POS_NN
+system #F_PREV_care #F_PREV2_health #F_NEXT_. #F_POS_NN
+. #F_PREV_system #F_PREV2_care #F_POS_.
+
+A #F_PREV2_effects #F_NEXT_new #F_POS_DT
+new #F_PREV_A #F_NEXT_antibiotic #F_POS_JJ
+antibiotic #F_PREV_new #F_PREV2_A #F_NEXT_Chloromycetin #F_POS_JJ
+Chloromycetin #F_PREV_antibiotic #F_PREV2_new #F_NEXT_has #F_POS_NNP
+has #F_PREV_Chloromycetin #F_PREV2_antibiotic #F_NEXT_been #F_POS_VBZ
+been #F_PREV_has #F_PREV2_Chloromycetin #F_NEXT_clinically #F_POS_VBN
+clinically #F_PREV_been #F_PREV2_has #F_NEXT_tested #F_POS_RB
+tested #F_PREV_clinically #F_PREV2_been #F_NEXT_in #F_POS_VBN
+in #F_PREV_tested #F_PREV2_clinically #F_NEXT_the #F_POS_IN
+the #F_PREV_in #F_PREV2_tested #F_NEXT_treatment #F_POS_DT
+treatment #F_PREV_the #F_PREV2_in #F_NEXT_of #F_POS_NN
+of #F_PREV_treatment #F_PREV2_the #F_NEXT_typhoid #F_POS_IN
+typhoid #F_PREV_of #F_PREV2_treatment #F_NEXT_fever #F_POS_JJ
+fever #F_PREV_typhoid #F_PREV2_of #F_NEXT_and #F_POS_NN
+and #F_PREV_fever #F_PREV2_typhoid #F_NEXT_has #F_POS_CC
+has #F_PREV_and #F_PREV2_fever #F_NEXT_been #F_POS_VBZ
+been #F_PREV_has #F_PREV2_and #F_NEXT_found #F_POS_VBN
+found #F_PREV_been #F_PREV2_has #F_NEXT_to #F_POS_VBN
+to #F_PREV_found #F_PREV2_been #F_NEXT_exhibit #F_POS_TO
+exhibit #F_PREV_to #F_PREV2_found #F_NEXT_significant #F_POS_VB
+significant #F_PREV_exhibit #F_PREV2_to #F_NEXT_chemotherapeutic #F_POS_JJ
+chemotherapeutic #F_PREV_significant #F_PREV2_exhibit #F_NEXT_effects #F_POS_JJ
+effects #F_PREV_chemotherapeutic #F_PREV2_significant #F_NEXT_. #F_POS_NNS
+. #F_PREV_effects #F_PREV2_chemotherapeutic #F_POS_.
+
+A #F_PREV2_report #F_NEXT_description #F_POS_DT
+description #F_PREV_A #F_NEXT_of #F_POS_NN
+of #F_PREV_description #F_PREV2_A #F_NEXT_the #F_POS_IN
+the #F_PREV_of #F_PREV2_description #F_NEXT_results #F_POS_DT
+results #F_PREV_the #F_PREV2_of #F_NEXT_in #F_POS_NNS
+in #F_PREV_results #F_PREV2_the #F_NEXT_10 #F_POS_IN
+10 #F_PREV_in #F_PREV2_results #F_NEXT_cases #F_POS_CD
+cases #F_PREV_10 #F_PREV2_in #F_NEXT_is #F_POS_NNS
+is #F_PREV_cases #F_PREV2_10 #F_NEXT_submitted #F_POS_VBZ
+submitted #F_PREV_is #F_PREV2_cases #F_NEXT_as #F_POS_VBN
+as #F_PREV_submitted #F_PREV2_is #F_NEXT_a #F_POS_RB
+a #F_PREV_as #F_PREV2_submitted #F_NEXT_preliminary #F_POS_DT
+preliminary #F_PREV_a #F_PREV2_as #F_NEXT_report #F_POS_JJ
+report #F_PREV_preliminary #F_PREV2_a #F_NEXT_. #F_POS_NN
+. #F_PREV_report #F_PREV2_preliminary #F_POS_.
+
+Follow-up #F_PREV2_12 #F_NEXT_analyses #F_POS_JJ
+analyses #F_PREV_Follow-up #F_NEXT_revealed #F_POS_NNS
+revealed #F_PREV_analyses #F_PREV2_Follow-up #F_NEXT_4 #F_POS_VBD
+4 #F_PREV_revealed #F_PREV2_analyses #F_NEXT_regions #F_POS_CD
+regions #F_PREV_4 #F_PREV2_revealed #F_NEXT_of #F_POS_NNS
+of #F_PREV_regions #F_PREV2_4 #F_NEXT_continued #F_POS_IN
+continued #F_PREV_of #F_PREV2_regions #F_NEXT_interest #F_POS_VBN
+interest #F_PREV_continued #F_PREV2_of #F_NEXT_on #F_POS_NN
+on #F_PREV_interest #F_PREV2_continued #F_NEXT_chromosomes #F_POS_IN
+chromosomes #F_PREV_on #F_PREV2_interest #F_NEXT_4 #F_POS_NNS
+4 #F_PREV_chromosomes #F_PREV2_on #F_NEXT_, #F_POS_CD
+, #F_PREV_4 #F_PREV2_chromosomes #F_NEXT_6 #F_POS_,
+6 #F_PREV_, #F_PREV2_4 #F_NEXT_, #F_POS_CD
+, #F_PREV_6 #F_PREV2_, #F_NEXT_12 #F_POS_,
+12 #F_PREV_, #F_PREV2_6 #F_NEXT_, #F_POS_CD
+, #F_PREV_12 #F_PREV2_, #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_12 #F_NEXT_20 #F_POS_CC
+20 #F_PREV_and #F_PREV2_, #F_NEXT_, #F_POS_CD
+, #F_PREV_20 #F_PREV2_and #F_NEXT_with #F_POS_,
+with #F_PREV_, #F_PREV2_20 #F_NEXT_the #F_POS_IN
+the #F_PREV_with #F_PREV2_, #F_NEXT_strongest #F_POS_DT
+strongest #F_PREV_the #F_PREV2_with #F_NEXT_results #F_POS_JJS
+results #F_PREV_strongest #F_PREV2_the #F_NEXT_observed #F_POS_NNS
+observed #F_PREV_results #F_PREV2_strongest #F_NEXT_forchromosome #F_POS_VBD
+forchromosome #F_PREV_observed #F_PREV2_results #F_NEXT_12 #F_POS_NN
+12 #F_PREV_forchromosome #F_PREV2_observed #F_NEXT_. #F_POS_CD
+. #F_PREV_12 #F_PREV2_forchromosome #F_POS_.
+
+Peak #F_PREV2_respectively #F_NEXT_2-point #F_POS_NNP
+2-point #F_PREV_Peak #F_NEXT_affecteds-only #F_POS_JJ
+affecteds-only #F_PREV_2-point #F_PREV2_Peak #F_NEXT_lod #F_POS_JJ
+lod #F_PREV_affecteds-only #F_PREV2_2-point #F_NEXT_scores #F_POS_NN
+scores #F_PREV_lod #F_PREV2_affecteds-only #F_NEXT_( #F_POS_NNS
+( #F_PREV_scores #F_PREV2_lod #F_NEXT_n=54 #F_POS_:
+n=54 #F_PREV_( #F_PREV2_scores #F_NEXT_) #F_POS_-NONE-
+) #F_PREV_n=54 #F_PREV2_( #F_NEXT_were #F_POS_:
+were #F_PREV_) #F_PREV2_n=54 #F_NEXT_1.3 #F_POS_VBD
+1.3 #F_PREV_were #F_PREV2_) #F_NEXT_, #F_POS_CD
+, #F_PREV_1.3 #F_PREV2_were #F_NEXT_1.6 #F_POS_,
+1.6 #F_PREV_, #F_PREV2_1.3 #F_NEXT_, #F_POS_CD
+, #F_PREV_1.6 #F_PREV2_, #F_NEXT_2.7 #F_POS_,
+2.7 #F_PREV_, #F_PREV2_1.6 #F_NEXT_, #F_POS_CD
+, #F_PREV_2.7 #F_PREV2_, #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_2.7 #F_NEXT_2.2 #F_POS_CC
+2.2 #F_PREV_and #F_PREV2_, #F_NEXT_and #F_POS_CD
+and #F_PREV_2.2 #F_PREV2_and #F_NEXT_affected #F_POS_CC
+affected #F_PREV_and #F_PREV2_2.2 #F_NEXT_relative #F_POS_VBD
+relative #F_PREV_affected #F_PREV2_and #F_NEXT_pairs #F_POS_JJ
+pairs #F_PREV_relative #F_PREV2_affected #F_NEXT_P #F_POS_NNS
+P #F_PREV_pairs #F_PREV2_relative #F_NEXT_values #F_POS_NNP
+values #F_PREV_P #F_PREV2_pairs #F_NEXT_( #F_POS_NNS
+( #F_PREV_values #F_PREV2_P #F_NEXT_n=54 #F_POS_:
+n=54 #F_PREV_( #F_PREV2_values #F_NEXT_) #F_POS_-NONE-
+) #F_PREV_n=54 #F_PREV2_( #F_NEXT_were #F_POS_:
+were #F_PREV_) #F_PREV2_n=54 #F_NEXT_.04 #F_POS_VBD
+.04 #F_PREV_were #F_PREV2_) #F_NEXT_, #F_POS_CD
+, #F_PREV_.04 #F_PREV2_were #F_NEXT_.03 #F_POS_,
+.03 #F_PREV_, #F_PREV2_.04 #F_NEXT_, #F_POS_CD
+, #F_PREV_.03 #F_PREV2_, #F_NEXT_.14 #F_POS_,
+.14 #F_PREV_, #F_PREV2_.03 #F_NEXT_, #F_POS_CD
+, #F_PREV_.14 #F_PREV2_, #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_.14 #F_NEXT_.04 #F_POS_CC
+.04 #F_PREV_and #F_PREV2_, #F_NEXT_for #F_POS_CD
+for #F_PREV_.04 #F_PREV2_and #F_NEXT_D12S373 #F_POS_IN
+D12S373 #F_PREV_for #F_PREV2_.04 #F_NEXT_, #F_POS_NNP
+, #F_PREV_D12S373 #F_PREV2_for #F_NEXT_D12S1057 #F_POS_,
+D12S1057 #F_PREV_, #F_PREV2_D12S373 #F_NEXT_, #F_POS_NNP
+, #F_PREV_D12S1057 #F_PREV2_, #F_NEXT_D12S1042 #F_POS_,
+D12S1042 #F_PREV_, #F_PREV2_D12S1057 #F_NEXT_, #F_POS_NNP
+, #F_PREV_D12S1042 #F_PREV2_, #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_D12S1042 #F_NEXT_D12S390 #F_POS_CC
+D12S390 #F_PREV_and #F_PREV2_, #F_NEXT_, #F_POS_NNP
+, #F_PREV_D12S390 #F_PREV2_and #F_NEXT_respectively #F_POS_,
+respectively #F_PREV_, #F_PREV2_D12S390 #F_NEXT_. #F_POS_RB
+. #F_PREV_respectively #F_PREV2_, #F_POS_.
+
+To #F_PREV2_rationing #F_NEXT_examine #F_POS_TO
+examine #F_PREV_To #F_NEXT_the #F_POS_VB
+the #F_PREV_examine #F_PREV2_To #F_NEXT_effects #F_POS_DT
+effects #F_PREV_the #F_PREV2_examine #F_NEXT_of #F_POS_NNS
+of #F_PREV_effects #F_PREV2_the #F_NEXT_advance #F_POS_IN
+advance #F_PREV_of #F_PREV2_effects #F_NEXT_directives #F_POS_NN
+directives #F_PREV_advance #F_PREV2_of #F_NEXT_on #F_POS_NNS
+on #F_PREV_directives #F_PREV2_advance #F_NEXT_medical #F_POS_IN
+medical #F_PREV_on #F_PREV2_directives #F_NEXT_treatments #F_POS_JJ
+treatments #F_PREV_medical #F_PREV2_on #F_NEXT_and #F_POS_NNS
+and #F_PREV_treatments #F_PREV2_medical #F_NEXT_on #F_POS_CC
+on #F_PREV_and #F_PREV2_treatments #F_NEXT_patient #F_POS_IN
+patient #F_PREV_on #F_PREV2_and #F_NEXT_satisfaction #F_POS_NN
+satisfaction #F_PREV_patient #F_PREV2_on #F_NEXT_and #F_POS_NN
+and #F_PREV_satisfaction #F_PREV2_patient #F_NEXT_well-being #F_POS_CC
+well-being #F_PREV_and #F_PREV2_satisfaction #F_NEXT_and #F_POS_JJ
+and #F_PREV_well-being #F_PREV2_and #F_NEXT_to #F_POS_CC
+to #F_PREV_and #F_PREV2_well-being #F_NEXT_determine #F_POS_TO
+determine #F_PREV_to #F_PREV2_and #F_NEXT_whether #F_POS_VB
+whether #F_PREV_determine #F_PREV2_to #F_NEXT_the #F_POS_IN
+the #F_PREV_whether #F_PREV2_determine #F_NEXT_enhancement #F_POS_DT
+enhancement #F_PREV_the #F_PREV2_whether #F_NEXT_of #F_POS_NN
+of #F_PREV_enhancement #F_PREV2_the #F_NEXT_patient #F_POS_IN
+patient #F_PREV_of #F_PREV2_enhancement #F_NEXT_autonomy #F_POS_NN
+autonomy #F_PREV_patient #F_PREV2_of #F_NEXT_through #F_POS_NN
+through #F_PREV_autonomy #F_PREV2_patient #F_NEXT_advance #F_POS_IN
+advance #F_PREV_through #F_PREV2_autonomy #F_NEXT_directives #F_POS_NN
+directives #F_PREV_advance #F_PREV2_through #F_NEXT_provides #F_POS_NNS
+provides #F_PREV_directives #F_PREV2_advance #F_NEXT_a #F_POS_VBZ
+a #F_PREV_provides #F_PREV2_directives #F_NEXT_more #F_POS_DT
+more #F_PREV_a #F_PREV2_provides #F_NEXT_ethically #F_POS_RBR
+ethically #F_PREV_more #F_PREV2_a #F_NEXT_feasible #F_POS_RB
+feasible #F_PREV_ethically #F_PREV2_more #F_NEXT_approach #F_POS_JJ
+approach #F_PREV_feasible #F_PREV2_ethically #F_NEXT_to #F_POS_NN
+to #F_PREV_approach #F_PREV2_feasible #F_NEXT_cost #F_POS_TO
+cost #F_PREV_to #F_PREV2_approach #F_NEXT_control #F_POS_VB
+control #F_PREV_cost #F_PREV2_to #F_NEXT_than #F_POS_NN
+than #F_PREV_control #F_PREV2_cost #F_NEXT_does #F_POS_IN
+does #F_PREV_than #F_PREV2_control #F_NEXT_the #F_POS_VBZ
+the #F_PREV_does #F_PREV2_than #F_NEXT_imposition #F_POS_DT
+imposition #F_PREV_the #F_PREV2_does #F_NEXT_of #F_POS_NN
+of #F_PREV_imposition #F_PREV2_the #F_NEXT_limits #F_POS_IN
+limits #F_PREV_of #F_PREV2_imposition #F_NEXT_through #F_POS_NNS
+through #F_PREV_limits #F_PREV2_of #F_NEXT_rationing #F_POS_IN
+rationing #F_PREV_through #F_PREV2_limits #F_NEXT_. #F_POS_VBG
+. #F_PREV_rationing #F_PREV2_through #F_POS_.
+
+No #F_PREV2_charges #F_NEXT_significant #F_POS_DT
+significant #F_PREV_No #F_NEXT_differences #F_POS_JJ
+differences #F_PREV_significant #F_PREV2_No #F_NEXT_were #F_POS_NNS
+were #F_PREV_differences #F_PREV2_significant #F_NEXT_found #F_POS_VBD
+found #F_PREV_were #F_PREV2_differences #F_NEXT_between #F_POS_VBN
+between #F_PREV_found #F_PREV2_were #F_NEXT_advance-directive #F_POS_IN
+advance-directive #F_PREV_between #F_PREV2_found #F_NEXT_and #F_POS_JJ
+and #F_PREV_advance-directive #F_PREV2_between #F_NEXT_control #F_POS_CC
+control #F_PREV_and #F_PREV2_advance-directive #F_NEXT_groups #F_POS_NN
+groups #F_PREV_control #F_PREV2_and #F_NEXT_regarding #F_POS_NNS
+regarding #F_PREV_groups #F_PREV2_control #F_NEXT_psychosocial #F_POS_VBG
+psychosocial #F_PREV_regarding #F_PREV2_groups #F_NEXT_variables #F_POS_JJ
+variables #F_PREV_psychosocial #F_PREV2_regarding #F_NEXT_, #F_POS_NNS
+, #F_PREV_variables #F_PREV2_psychosocial #F_NEXT_health #F_POS_,
+health #F_PREV_, #F_PREV2_variables #F_NEXT_outcome #F_POS_NN
+outcome #F_PREV_health #F_PREV2_, #F_NEXT_variables #F_POS_NN
+variables #F_PREV_outcome #F_PREV2_health #F_NEXT_, #F_POS_NNS
+, #F_PREV_variables #F_PREV2_outcome #F_NEXT_and #F_POS_,
+and #F_PREV_, #F_PREV2_variables #F_NEXT_medical #F_POS_CC
+medical #F_PREV_and #F_PREV2_, #F_NEXT_treatments #F_POS_JJ
+treatments #F_PREV_medical #F_PREV2_and #F_NEXT_or #F_POS_NNS
+or #F_PREV_treatments #F_PREV2_medical #F_NEXT_charges #F_POS_CC
+charges #F_PREV_or #F_PREV2_treatments #F_NEXT_. #F_POS_NNS
+. #F_PREV_charges #F_PREV2_or #F_POS_.
+
+Patients #F_PREV2_controls #F_NEXT_offered #F_POS_NNS
+offered #F_PREV_Patients #F_NEXT_an #F_POS_VBD
+an #F_PREV_offered #F_PREV2_Patients #F_NEXT_advance #F_POS_DT
+advance #F_PREV_an #F_PREV2_offered #F_NEXT_directive #F_POS_NN
+directive #F_PREV_advance #F_PREV2_an #F_NEXT_had #F_POS_NN
+had #F_PREV_directive #F_PREV2_advance #F_NEXT_an #F_POS_VBD
+an #F_PREV_had #F_PREV2_directive #F_NEXT_average #F_POS_DT
+average #F_PREV_an #F_PREV2_had #F_NEXT_hospital #F_POS_JJ
+hospital #F_PREV_average #F_PREV2_an #F_NEXT_stay #F_POS_NN
+stay #F_PREV_hospital #F_PREV2_average #F_NEXT_of #F_POS_NN
+of #F_PREV_stay #F_PREV2_hospital #F_NEXT_40.8 #F_POS_IN
+40.8 #F_PREV_of #F_PREV2_stay #F_NEXT_days #F_POS_CD
+days #F_PREV_40.8 #F_PREV2_of #F_NEXT_( #F_POS_NNS
+( #F_PREV_days #F_PREV2_40.8 #F_NEXT_95 #F_POS_:
+95 #F_PREV_( #F_PREV2_days #F_NEXT_% #F_POS_CD
+% #F_PREV_95 #F_PREV2_( #F_NEXT_CI, #F_POS_NN
+CI, #F_PREV_% #F_PREV2_95 #F_NEXT_32.2 #F_POS_NN
+32.2 #F_PREV_CI, #F_PREV2_% #F_NEXT_to #F_POS_CD
+to #F_PREV_32.2 #F_PREV2_CI, #F_NEXT_49.4 #F_POS_TO
+49.4 #F_PREV_to #F_PREV2_32.2 #F_NEXT_days #F_POS_CD
+days #F_PREV_49.4 #F_PREV2_to #F_NEXT_) #F_POS_NNS
+) #F_PREV_days #F_PREV2_49.4 #F_NEXT_, #F_POS_:
+, #F_PREV_) #F_PREV2_days #F_NEXT_compared #F_POS_,
+compared #F_PREV_, #F_PREV2_) #F_NEXT_with #F_POS_VBN
+with #F_PREV_compared #F_PREV2_, #F_NEXT_an #F_POS_IN
+an #F_PREV_with #F_PREV2_compared #F_NEXT_average #F_POS_DT
+average #F_PREV_an #F_PREV2_with #F_NEXT_of #F_POS_JJ
+of #F_PREV_average #F_PREV2_an #F_NEXT_33.1 #F_POS_IN
+33.1 #F_PREV_of #F_PREV2_average #F_NEXT_days #F_POS_CD
+days #F_PREV_33.1 #F_PREV2_of #F_NEXT_( #F_POS_NNS
+( #F_PREV_days #F_PREV2_33.1 #F_NEXT_95 #F_POS_:
+95 #F_PREV_( #F_PREV2_days #F_NEXT_% #F_POS_CD
+% #F_PREV_95 #F_PREV2_( #F_NEXT_CI #F_POS_NN
+CI #F_PREV_% #F_PREV2_95 #F_NEXT_, #F_POS_NNP
+, #F_PREV_CI #F_PREV2_% #F_NEXT_26.0 #F_POS_,
+26.0 #F_PREV_, #F_PREV2_CI #F_NEXT_to #F_POS_CD
+to #F_PREV_26.0 #F_PREV2_, #F_NEXT_40.2 #F_POS_TO
+40.2 #F_PREV_to #F_PREV2_26.0 #F_NEXT_days #F_POS_CD
+days #F_PREV_40.2 #F_PREV2_to #F_NEXT_) #F_POS_NNS
+) #F_PREV_days #F_PREV2_40.2 #F_NEXT_for #F_POS_:
+for #F_PREV_) #F_PREV2_days #F_NEXT_controls #F_POS_IN
+controls #F_PREV_for #F_PREV2_) #F_NEXT_. #F_POS_NNS
+. #F_PREV_controls #F_PREV2_for #F_POS_.
+
+In #F_PREV2_trials #F_NEXT_the #F_POS_IN
+the #F_PREV_In #F_NEXT_development #F_POS_DT
+development #F_PREV_the #F_PREV2_In #F_NEXT_of #F_POS_NN
+of #F_PREV_development #F_PREV2_the #F_NEXT_medical #F_POS_IN
+medical #F_PREV_of #F_PREV2_development #F_NEXT_treatments #F_POS_JJ
+treatments #F_PREV_medical #F_PREV2_of #F_NEXT_, #F_POS_NNS
+, #F_PREV_treatments #F_PREV2_medical #F_NEXT_identification #F_POS_,
+identification #F_PREV_, #F_PREV2_treatments #F_NEXT_of #F_POS_NN
+of #F_PREV_identification #F_PREV2_, #F_NEXT_promising #F_POS_IN
+promising #F_PREV_of #F_PREV2_identification #F_NEXT_therapies #F_POS_VBG
+therapies #F_PREV_promising #F_PREV2_of #F_NEXT_and #F_POS_NNS
+and #F_PREV_therapies #F_PREV2_promising #F_NEXT_inference #F_POS_CC
+inference #F_PREV_and #F_PREV2_therapies #F_NEXT_on #F_POS_NN
+on #F_PREV_inference #F_PREV2_and #F_NEXT_selected #F_POS_IN
+selected #F_PREV_on #F_PREV2_inference #F_NEXT_treatments #F_POS_VBN
+treatments #F_PREV_selected #F_PREV2_on #F_NEXT_are #F_POS_NNS
+are #F_PREV_treatments #F_PREV2_selected #F_NEXT_usually #F_POS_VBP
+usually #F_PREV_are #F_PREV2_treatments #F_NEXT_performed #F_POS_RB
+performed #F_PREV_usually #F_PREV2_are #F_NEXT_in #F_POS_VBN
+in #F_PREV_performed #F_PREV2_usually #F_NEXT_subsequent #F_POS_IN
+subsequent #F_PREV_in #F_PREV2_performed #F_NEXT_separate #F_POS_NN
+separate #F_PREV_subsequent #F_PREV2_in #F_NEXT_trials #F_POS_JJ
+trials #F_PREV_separate #F_PREV2_subsequent #F_NEXT_. #F_POS_NNS
+. #F_PREV_trials #F_PREV2_separate #F_POS_.
+

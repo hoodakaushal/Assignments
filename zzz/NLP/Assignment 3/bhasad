@@ -1,0 +1,18 @@
+State #0 "O"
+initialWeight=0.0, finalWeight=0.0
+#destinations=3
+-> O
+-> D
+-> T
+State #1 "D"
+initialWeight=0.0, finalWeight=0.0
+#destinations=3
+-> O
+-> D
+-> T
+State #2 "T"
+initialWeight=0.0, finalWeight=0.0
+#destinations=3
+-> O
+-> D
+-> T

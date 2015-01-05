@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Sets>
+	<Set>
+		<Element>
+			<Disjunction>
+				<Letter val="a"/>
+				<Conjunction>
+					<Letter val="b"/>
+					<Letter val="c"/>
+				</Conjunction>
+			</Disjunction>
+		</Element>
+		<Element>
+			<Negation>
+				<Letter val="a"/>
+			</Negation>
+		</Element>
+		<Element>
+			<Negation>
+				<Letter val="b"/>
+			</Negation>
+		</Element>
+	</Set>
+</Sets>

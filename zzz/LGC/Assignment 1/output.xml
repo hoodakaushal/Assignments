@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Sets>
+	<Set>
+		<Element>
+			<Letter val="a"/>
+		</Element>
+		<Element>
+			<Negation>
+				<Letter val="a"/>
+			</Negation>
+		</Element>
+		<Element>
+			<Negation>
+				<Letter val="b"/>
+			</Negation>
+		</Element>
+	</Set>
+	<Set>
+		<Element>
+			<Letter val="c"/>
+		</Element>
+		<Element>
+			<Letter val="b"/>
+		</Element>
+		<Element>
+			<Negation>
+				<Letter val="a"/>
+			</Negation>
+		</Element>
+		<Element>
+			<Negation>
+				<Letter val="b"/>
+			</Negation>
+		</Element>
+	</Set>
+</Sets>

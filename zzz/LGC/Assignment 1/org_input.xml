@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Set>
+    <Element>
+        <Disjunction>
+            <Letter val="a" loda="lahsun"/>
+            <Conjunction>
+                <Letter val="b"/>
+                <Letter val="c"/>
+            </Conjunction>
+        </Disjunction>
+    </Element>
+    <Element>
+        <Negation>
+            <Letter val="a"/>
+        </Negation>
+    </Element>
+    <Element>
+        <Negation>
+            <Letter val="b"/>
+        </Negation>
+    </Element>
+</Set>
